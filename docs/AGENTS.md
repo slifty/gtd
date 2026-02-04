@@ -54,7 +54,7 @@ This is a **low-friction GTD system** designed for someone who:
 - New client → Create single-action list in Clients folder, set weekly review interval, add "Check backlog" recurring task only if has external system (GitHub/Jira)
 - New side project → Create single-action list in Side Projects folder, set monthly review interval, add "Check backlog" recurring task only if has GitHub
 - New volunteer role → Create single-action list in Volunteer folder, set biweekly review interval
-- New personal area → Usually add to existing project (Health & Body, House & Home, etc.)
+- New personal area → Usually add to existing project (Self Care, House & Home, etc.)
 - New task → Add to appropriate project, consider tags (energy, context, 5min if quick)
 
 ### When user asks about project structure

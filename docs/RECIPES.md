@@ -223,7 +223,7 @@ If it's a scoped project, see [Onboarding a New Side Project](#onboarding-a-new-
 ### Steps (for Personal)
 
 1. **Decide which project**
-   - Health & Body — medical, fitness, wellness
+   - Self Care — medical, fitness, wellness, grooming, clothing
    - House & Home — maintenance, improvements
    - Family — family activities, responsibilities
    - Finances — taxes, insurance, investments, estate planning
@@ -315,7 +315,7 @@ You only need the *trigger*, not the whole sequence.
 ### Setup Steps
 
 1. **Create the recurring task**
-   - Project: Relevant personal project (usually Family or Health & Body)
+   - Project: Relevant personal project (usually Family or Self Care)
    - Name: "Plan [event name]" (e.g., "Plan summer vacation")
    - Repeat: Yearly, set to appear when planning naturally starts
    - Tag: Consider `🔴 Deep` if planning requires focus

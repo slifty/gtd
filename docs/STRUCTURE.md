@@ -73,7 +73,7 @@ Life maintenance organized by area. Recurring life events (annual trips, holiday
 
 | Project | Purpose |
 |---------|---------|
-| Health & Body | Medical, fitness, wellness |
+| Self Care | Medical, fitness, wellness, grooming, clothing |
 | House & Home | Maintenance, improvements, household |
 | Family | Family activities, responsibilities |
 | Finances | Taxes, insurance, investments, estate planning |
@@ -82,9 +82,12 @@ Life maintenance organized by area. Recurring life events (annual trips, holiday
 Example structure:
 ```
 📁 Personal
-   📋 Health & Body
+   📋 Self Care
       ◯ Schedule annual physical [repeat: yearly]
       ◯ Refill prescription
+      ◯ Seasonal wardrobe review [repeat: yearly, April]
+      ◯ Drop off dry cleaning
+      ◯ Schedule haircut
       ◯ Weekly Review [flagged, repeat: weekly]
    📋 House & Home
       ◯ Schedule HVAC maintenance [repeat: yearly, spring]
@@ -104,7 +107,7 @@ Example structure:
       ◯ Order new strings
 ```
 
-**Key difference from Side Projects:** Personal tasks are ongoing life maintenance. There's no "done" state for Health & Body.
+**Key difference from Side Projects:** Personal tasks are ongoing life maintenance. There's no "done" state for Self Care.
 
 ### Business
 
@@ -254,7 +257,9 @@ If a project has no external system (lives only in your head/OmniFocus), it does
 | Client admin (invoice, contract) | Client project (or separate admin project) |
 | Volunteer duty | Relevant volunteer project |
 | Side project work | Relevant side project |
-| Personal health task | Health & Body |
+| Personal health task | Self Care |
+| Grooming (haircut, etc.) | Self Care |
+| Clothing (wardrobe, dry cleaning) | Self Care |
 | House repair/maintenance | House & Home |
 | Family activity/responsibility | Family |
 | Personal taxes, insurance, investments | Finances |

@@ -94,7 +94,7 @@ Projects live inside folders. You'll also create one special top-level project.
 
 1. Select the **Personal** folder
 2. Create these projects:
-   - `Health & Body`
+   - `Self Care`
    - `House & Home`
    - `Family`
    - `Finances`
@@ -147,7 +147,7 @@ All projects should be **single-action lists** (not sequential):
 📁 Volunteer
    📋 [Your volunteer roles] ⟲
 📁 Personal
-   📋 Health & Body ⟲
+   📋 Self Care ⟲
    📋 House & Home ⟲
    📋 Family ⟲
    📋 Finances ⟲
@@ -420,7 +420,7 @@ Add these tasks to the **Chores** project (inside Popcorn folder). Tag with `⚡
 
 ### Weekly Review Task
 
-Add to **Health & Body** project:
+Add to **Self Care** project:
 
 - **Task name**: `Weekly Review`
 - **Flag it**: Yes (click the flag icon)

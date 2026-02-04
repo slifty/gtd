@@ -46,7 +46,7 @@ Example structure:
 
 ### Personal
 
-Organize by life area, not by individual goal.
+Organize by life area, not by individual goal. Recurring life events (annual trips, holidays) live as recurring tasks with checklists in the notes — not as separate projects.
 
 | Project | Purpose |
 |---------|---------|
@@ -55,6 +55,30 @@ Organize by life area, not by individual goal.
 | Family | Family activities, responsibilities |
 | Creative Projects | Side projects, creative work |
 | Hobbies | Music, art, other pursuits |
+
+Example structure:
+```
+📁 Personal
+   📋 Health & Body
+      ◯ Schedule annual physical [repeat: yearly]
+      ◯ Refill prescription
+      ◯ Weekly Review [flagged, repeat: weekly]
+   📋 House & Home
+      ◯ Schedule HVAC maintenance [repeat: yearly, spring]
+      ◯ Fix leaky faucet
+      ◯ Get quotes for deck repair
+   📋 Family
+      ◯ Plan summer vacation [repeat: yearly, March - checklist in notes]
+      ◯ Book ferry for vacation
+      ◯ Schedule family photos
+      ◯ Plan kid's birthday party
+   📋 Creative Projects
+      ◯ Write blog post draft
+      ◯ Research podcast equipment
+   📋 Hobbies
+      ◯ Practice guitar (30 min)
+      ◯ Order new strings
+```
 
 ### Business
 

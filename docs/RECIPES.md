@@ -13,6 +13,7 @@ Step-by-step procedures for common tasks. Follow these when you need to do somet
 - [Onboarding a New Client](#onboarding-a-new-client)
 - [Onboarding a New Volunteer Role](#onboarding-a-new-volunteer-role)
 - [Adding a New Personal Project](#adding-a-new-personal-project)
+- [Recurring Life Events](#recurring-life-events)
 - [Processing a Meeting](#processing-a-meeting)
 - [Processing Email to Tasks](#processing-email-to-tasks)
 - [Handling a New GitHub Issue](#handling-a-new-github-issue)
@@ -210,12 +211,12 @@ The goal is momentum, not perfection.
 
 ### Steps
 
-1. **Decide which folder**
+1. **Decide which project**
    - Health & Body — medical, fitness, wellness
    - House & Home — maintenance, improvements
    - Family — family activities, responsibilities
-   - Bad Idea Factory — creative projects
-   - Music & Creative — music, art, hobbies
+   - Creative Projects — side projects, creative work
+   - Hobbies — music, art, other pursuits
 
 2. **Add tasks to existing project** (preferred)
    - Most "projects" are just tasks in an existing single-action list
@@ -223,6 +224,98 @@ The goal is momentum, not perfection.
 3. **Or create a sub-project** (rare)
    - Only if it's a distinct, time-bound effort
    - Example: "Kitchen Renovation" as a project under House & Home
+
+---
+
+## Recurring Life Events
+
+**Time:** 10 minutes to set up, then automatic
+
+**Examples:** Annual vacation, holiday planning, yearly appointments, seasonal tasks
+
+### The Pattern
+
+Don't create a full project with all steps. Instead:
+
+1. **One recurring task** that triggers planning
+2. **Checklist in the task notes** with all the steps
+3. **Pull out specific tasks** during weekly review as they become actionable
+
+### Why This Works
+
+Most steps in recurring events aren't actionable until their time comes. "Book ferry" in January when reservations open in April is just clutter. Your weekly review naturally surfaces what's next.
+
+You only need the *trigger*, not the whole sequence.
+
+### Setup Steps
+
+1. **Create the recurring task**
+   - Project: Relevant personal project (usually Family or Health & Body)
+   - Name: "Plan [event name]" (e.g., "Plan summer vacation")
+   - Repeat: Yearly, set to appear when planning naturally starts
+   - Tag: Consider `🔴 Deep` if planning requires focus
+
+2. **Add checklist to notes**
+   ```
+   Planning checklist:
+   - [ ] Pick dates
+   - [ ] Book accommodations
+   - [ ] Book transportation
+   - [ ] Request time off work
+   - [ ] Coordinate with family
+   - [ ] Make packing list
+   - [ ] [Add your specific steps]
+   ```
+
+3. **During weekly review**, when the task appears:
+   - Check what's now actionable
+   - Create individual tasks for immediate next actions
+   - Leave future steps in the checklist
+
+### Example: Annual Vacation
+
+**Recurring task:** "Plan summer vacation" (appears March 1)
+**In notes:**
+```
+Vacation planning checklist:
+- [ ] Pick dates with family
+- [ ] Book rental house (opens Jan 1)
+- [ ] Book ferry (reservations open March 15)
+- [ ] Request time off work
+- [ ] Renew beach parking permit
+- [ ] Schedule pet sitter
+- [ ] Pack (week before)
+```
+
+**During March weekly review:**
+- See "Plan summer vacation" is now available
+- Check notes — ferry reservations open March 15
+- Create task: "Book ferry for vacation" with defer date of March 15
+
+**During July weekly review (week before trip):**
+- Create task: "Pack for vacation"
+- Create task: "Confirm pet sitter"
+
+### Other Examples
+
+| Event | Recurring Task | When It Appears |
+|-------|---------------|-----------------|
+| Annual physical | "Schedule annual physical" | January |
+| Holiday gifts | "Plan holiday gifts" | November 1 |
+| Tax prep | "Gather tax documents" | February 1 |
+| Kid's birthday | "Plan [name]'s birthday" | 6 weeks before |
+| Seasonal HVAC | "Schedule HVAC maintenance" | March and September |
+| Car registration | "Renew car registration" | 1 month before expiry |
+
+### When to Create a Full Project Instead
+
+Only if the event has unusual complexity:
+- Coordinating multiple families or stakeholders
+- Managing a budget that needs tracking
+- Legal/visa requirements with dependencies
+- Multi-week effort with many parallel workstreams
+
+Even then, ask: does this need OmniFocus, or is a shared doc better?
 
 ---
 

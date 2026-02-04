@@ -24,13 +24,14 @@ One-time setup instructions for your productivity system.
 
 ## 1. Create Folders
 
-Folders organize your projects into life areas. Create four top-level folders.
+Folders organize your projects into life areas. Create five top-level folders.
 
 ### Steps
 
 1. In OmniFocus sidebar, right-click and select **New Folder** (or press ⌥⌘N)
 2. Create these folders:
    - `Clients`
+   - `Side Projects`
    - `Volunteer`
    - `Personal`
    - `Business`
@@ -41,6 +42,7 @@ Your sidebar should show:
 
 ```
 📁 Clients
+📁 Side Projects
 📁 Volunteer
 📁 Personal
 📁 Business
@@ -67,6 +69,17 @@ Projects live inside folders. You'll also create one special top-level project.
 - Simple: `Client Name`
 - If multiple workstreams for same client: `Client Name (Project X)`, `Client Name (Admin)`
 
+### Side Projects
+
+1. Select the **Side Projects** folder
+2. Create one project per side project (software, creative work, open source, etc.)
+3. **For each side project**, set it as a single-action list:
+   - Select the project
+   - Open Inspector (⌥⌘I)
+   - Change **Project Type** to **Single Actions**
+
+**Note:** Side projects are treated like clients — they have real scope, deliverables, and backlogs. The difference is you're not getting paid.
+
 ### Volunteer Projects
 
 1. Select the **Volunteer** folder
@@ -83,12 +96,13 @@ Projects live inside folders. You'll also create one special top-level project.
    - `Health & Body`
    - `House & Home`
    - `Family`
-   - `Creative Projects` (or name for your creative outlet)
    - `Hobbies` (or specific hobby name)
 3. **For each personal project**, set it as a single-action list:
    - Select the project
    - Open Inspector (⌥⌘I)
    - Change **Project Type** to **Single Actions**
+
+**Note:** Personal is for ongoing life maintenance. Scoped projects with deliverables go in Side Projects.
 
 ### Business Projects
 
@@ -118,13 +132,14 @@ All projects should be **single-action lists** (not sequential):
 ```
 📁 Clients
    📋 [Your clients] ⟲
+📁 Side Projects
+   📋 [Your side projects] ⟲
 📁 Volunteer
    📋 [Your volunteer roles] ⟲
 📁 Personal
    📋 Health & Body ⟲
    📋 House & Home ⟲
    📋 Family ⟲
-   📋 Creative Projects ⟲
    📋 Hobbies ⟲
 📁 Business
    📋 [Your business entities] ⟲
@@ -505,8 +520,9 @@ Use this checklist to confirm everything is set up correctly.
 
 ### Structure
 
-- [ ] 4 folders exist: Clients, Volunteer, Personal, Business
+- [ ] 5 folders exist: Clients, Side Projects, Volunteer, Personal, Business
 - [ ] Client projects exist inside Clients folder (one per client)
+- [ ] Side projects exist inside Side Projects folder (one per project)
 - [ ] Volunteer projects exist inside Volunteer folder (one per role)
 - [ ] Personal projects exist inside Personal folder
 - [ ] Business projects exist inside Business folder (one per entity)

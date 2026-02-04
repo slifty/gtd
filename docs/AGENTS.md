@@ -31,9 +31,10 @@ This is a **low-friction GTD system** designed for someone who:
 **Read STRUCTURE.md for complete details.**
 
 ### Folders
-- **Clients** — freelance/contract work
+- **Clients** — paid freelance/contract work
+- **Side Projects** — unpaid projects with real scope (software, creative, open source)
 - **Volunteer** — elected/appointed roles, community involvement
-- **Personal** — health, home, family, creative projects, hobbies
+- **Personal** — life maintenance (health, home, family, hobbies)
 - **Business** — bookkeeping and company admin
 
 ### Key Perspectives
@@ -51,6 +52,7 @@ This is a **low-friction GTD system** designed for someone who:
 
 ### When user asks about adding something new
 - New client → Create single-action list in Clients folder, add "Review [Client] backlog" recurring task
+- New side project → Create single-action list in Side Projects folder, add "Review [Project] backlog" recurring task (treat like a client)
 - New volunteer role → Create single-action list in Volunteer folder
 - New personal area → Usually add to existing project (Health & Body, House & Home, etc.)
 - New task → Add to appropriate project, consider tags (energy, context, 5min if quick)

@@ -7,9 +7,10 @@ The current structure of your OmniFocus setup. Reference this when you need to r
 ## Folders
 
 ```
-📁 Clients        — Freelance/contract work
+📁 Clients        — Paid freelance/contract work
+📁 Side Projects  — Unpaid projects with real scope (software, creative, open source)
 📁 Volunteer      — Elected/appointed roles, community involvement
-📁 Personal       — Life, health, home, creative
+📁 Personal       — Life maintenance (health, home, family, hobbies)
 📁 Business       — Bookkeeping and company admin
 ```
 
@@ -44,17 +45,37 @@ Example structure:
    📋 Committee Work
 ```
 
+### Side Projects
+
+Unpaid projects that have real scope — software, creative work, open source, passion projects. These are treated like clients: one project per effort, with backlog reviews and milestones.
+
+Example structure:
+```
+📁 Side Projects
+   📋 TV Kitchen
+      ◯ Review TV Kitchen backlog [repeat: weekly]
+      ◯ Implement pipeline caching
+      ◯ Write README documentation
+   📋 Personal Website
+      ◯ Review website backlog [repeat: weekly]
+      ◯ Add blog section
+      ◯ Fix mobile nav
+   📋 Open Source Contrib
+      ◯ Review open PRs I've submitted
+```
+
+**Key difference from Personal:** Side projects have deliverables and could be "done." Personal is ongoing life maintenance.
+
 ### Personal
 
-Organize by life area, not by individual goal. Recurring life events (annual trips, holidays) live as recurring tasks with checklists in the notes — not as separate projects.
+Life maintenance organized by area. Recurring life events (annual trips, holidays) live as recurring tasks with checklists in the notes — not as separate projects.
 
 | Project | Purpose |
 |---------|---------|
 | Health & Body | Medical, fitness, wellness |
 | House & Home | Maintenance, improvements, household |
 | Family | Family activities, responsibilities |
-| Creative Projects | Side projects, creative work |
-| Hobbies | Music, art, other pursuits |
+| Hobbies | Music practice, crafts, ongoing pursuits |
 
 Example structure:
 ```
@@ -72,13 +93,12 @@ Example structure:
       ◯ Book ferry for vacation
       ◯ Schedule family photos
       ◯ Plan kid's birthday party
-   📋 Creative Projects
-      ◯ Write blog post draft
-      ◯ Research podcast equipment
    📋 Hobbies
       ◯ Practice guitar (30 min)
       ◯ Order new strings
 ```
+
+**Key difference from Side Projects:** Personal tasks are ongoing life maintenance. There's no "done" state for Health & Body.
 
 ### Business
 
@@ -149,8 +169,8 @@ Example structure:
 
 | Focus | Shows | Use When |
 |-------|-------|----------|
-| Work | Clients + Movement Snacks | During work hours |
-| Life | Volunteer + Personal + Business + Movement Snacks | Evenings, weekends |
+| Work | Clients + Side Projects + Movement Snacks | During work hours, building things |
+| Life | Volunteer + Personal + Business + Movement Snacks | Evenings, weekends, life maintenance |
 | *(unfocused)* | Everything | Weekly reviews |
 
 ---
@@ -173,12 +193,12 @@ Each project should have appropriate recurring tasks:
 |--------------|---------|
 | Client deliverable work | Relevant client project |
 | Client admin (invoice, contract) | Client project (or separate admin project) |
+| Side project work | Relevant side project |
 | Meeting follow-up | Project related to meeting topic |
 | Personal health task | Health & Body |
 | House repair/maintenance | House & Home |
 | Family activity/responsibility | Family |
-| Creative project idea | Creative Projects |
-| Hobby practice | Hobbies |
+| Hobby practice (ongoing) | Hobbies |
 | Bookkeeping | Relevant business project |
 | Physical exercise | Movement Snacks |
 | Volunteer duty | Relevant volunteer project |

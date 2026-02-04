@@ -155,6 +155,56 @@ When in doubt, don't add it. Every folder, project, tag, and perspective is some
 
 ---
 
+## What Doesn't Belong in OmniFocus
+
+OmniFocus is for **actions you're committed to**. Some things look like tasks but aren't — they're wishes, ideas, or reference lists. Putting them in OmniFocus creates noise and guilt.
+
+### Someday/Maybe Lists
+
+These are things you might want to do but aren't committed to yet:
+- Home improvement ideas ("Redo master bathroom")
+- Books to read
+- Movies and TV shows to watch
+- Places to visit
+- Things to learn
+- Restaurants to try
+- Gift ideas for people
+- Project ideas for someday
+
+**Why they don't belong in OmniFocus:**
+- No clear next action (yet)
+- Create guilt during reviews ("Why haven't I done this?")
+- Blur the line between commitment and fantasy
+- Add noise to your action system
+
+### Where to Put Them Instead
+
+**Obsidian** (or any notes app) works well for wish lists:
+- Create simple markdown files by category
+- `Books to Read.md`, `Home Improvement Ideas.md`, `Movies to Watch.md`
+- Review them when relevant (bored on a Friday, have renovation budget, at the bookstore)
+- No task management overhead
+
+**Dedicated apps** for media if you want social features:
+- Goodreads for books
+- Letterboxd for movies
+- These offer recommendations, ratings, and tracking
+
+**The key distinction:** These are *reference lists*, not *action lists*. You browse them when the context is right, not during task reviews.
+
+### The Workflow
+
+When you decide to actually pursue something from a wish list:
+
+1. **In Obsidian**: Mark it or move it to indicate "pursuing this now"
+2. **In OmniFocus**: Create an actionable task
+   - Not: "Redo master bathroom" (wish)
+   - But: "Get quotes for bathroom renovation" (action)
+
+The wish list is where ideas wait. OmniFocus is where commitments live.
+
+---
+
 ## Why These Specific Choices?
 
 ### Why folders for life areas?

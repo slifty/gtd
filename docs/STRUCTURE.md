@@ -223,6 +223,7 @@ If a project has no external system (lives only in your head/OmniFocus), it does
 
 | Type of task | Project |
 |--------------|---------|
+| Wish list item (books, movies, home ideas) | **Not OmniFocus** — use Obsidian (see PHILOSOPHY.md) |
 | Client deliverable work | Relevant client project |
 | Client admin (invoice, contract) | Client project (or separate admin project) |
 | Volunteer duty | Relevant volunteer project |

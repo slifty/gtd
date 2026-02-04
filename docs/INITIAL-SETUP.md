@@ -117,15 +117,23 @@ Projects live inside folders. You'll also create one special top-level project.
 
 **Naming guidance:** `Company Name (Books)` to distinguish from creative/project work
 
-### Movement Snacks (Top-Level Project)
+### Popcorn Folder
 
-This project lives at the top level (not in any folder) so it's always visible.
+This folder contains small repeating tasks that maintain life systems — "XP" that accumulates.
 
-1. Click somewhere outside your folders in the sidebar
-2. Press ⌘N to create a new project
-3. Name it `Movement Snacks`
-4. Open the Inspector (⌥⌘I) with the project selected
-5. Change **Project Type** to **Single Actions**
+1. Create the **Popcorn** folder (right-click sidebar → New Folder, or ⌥⌘N)
+
+2. Inside Popcorn, create the **Movement** project:
+   - Select the Popcorn folder
+   - Press ⌘N to create a new project
+   - Name it `Movement`
+   - Open Inspector (⌥⌘I) and set **Project Type** to **Single Actions**
+
+3. Inside Popcorn, create the **Chores** project:
+   - Select the Popcorn folder
+   - Press ⌘N to create a new project
+   - Name it `Chores`
+   - Open Inspector (⌥⌘I) and set **Project Type** to **Single Actions**
 
 ### Result
 
@@ -146,7 +154,9 @@ All projects should be **single-action lists** (not sequential):
    📋 Hobbies ⟲
 📁 Business
    📋 [Your business entities] ⟲
-📋 Movement Snacks ⟲
+📁 Popcorn
+   📋 Movement ⟲
+   📋 Chores ⟲
 📥 Inbox
 ```
 
@@ -294,19 +304,17 @@ Perspectives are saved views that filter your tasks. You'll create seven.
    - **Filter by availability**: Available
    - **Filter by tag**: Click "Specific Tags" and select **⚡ 5min**
 
-#### 4.3 Movement Break
+#### 4.3 Popcorn
 
-**Purpose**: Physical micro-breaks between work blocks
+**Purpose**: Quick maintenance tasks between work blocks (movement + chores)
 
-1. Create new perspective named `Movement Break`
+1. Create new perspective named `Popcorn`
 2. Configure:
    - **Presentation**: Custom
-   - **Group by**: Ungrouped
+   - **Group by**: Project
    - **Sort by**: Random (or Added)
    - **Filter by availability**: Available
-   - **Filter by tag**: Click "Specific Tags"
-     - Select **🏃 Movement** AND **🔄 Transition**
-     - Set to **"Any selected tag"** (not "All")
+   - **Filter by project**: Click "Specific Folders or Projects" and select **Popcorn** folder
 
 #### 4.4 Client Focus
 
@@ -364,7 +372,7 @@ For quick access:
 Recommended sidebar order:
 - Today
 - Quick Wins
-- Movement Break
+- Popcorn
 - Client Focus
 - Volunteer Focus
 
@@ -372,9 +380,9 @@ Recommended sidebar order:
 
 ## 5. Add Initial Tasks
 
-### Movement Snacks
+### Movement Tasks
 
-Add these tasks to the **Movement Snacks** project. For each task, add all three tags: `🏃 Movement`, `⚡ 5min`, and `🔄 Transition`.
+Add these tasks to the **Movement** project (inside Popcorn folder). For each task, add all three tags: `🏃 Movement`, `⚡ 5min`, and `🔄 Transition`.
 
 | Task | Note |
 |------|------|
@@ -394,6 +402,22 @@ Add these tasks to the **Movement Snacks** project. For each task, add all three
 2. Open Inspector (⌥⌘I)
 3. Click the Tags field and add the tags
 
+### Chores Tasks
+
+Add these tasks to the **Chores** project (inside Popcorn folder). Tag with `⚡ 5min` if the chore is quick.
+
+| Task | Repeat Interval | Note |
+|------|-----------------|------|
+| Do a load of laundry | Defer 2-3 days | Wash, dry, fold cycle |
+| Run dishwasher | Defer 1 day | Or hand wash dishes |
+| Take out trash | Weekly (trash day) | Include recycling |
+| Wipe kitchen counters | Defer 2 days | Quick wipe down |
+| Clean bathroom | Weekly | Quick clean, not deep clean |
+| Water plants | Defer 3-7 days | Depends on plants |
+| Vacuum/sweep main areas | Weekly | High traffic areas |
+
+**Customize this list** based on what you actually need reminders for. If you never forget something, don't track it.
+
 ### Weekly Review Task
 
 Add to **Health & Body** project:
@@ -412,7 +436,7 @@ Add to **Health & Body** project:
      - Any deadlines approaching?
   3. Review "Waiting For" items—follow up needed?
   4. Review calendar—next 2 weeks
-  5. Review Movement Snacks—still the right options?
+  5. Review Popcorn tasks—still the right options?
   6. Celebrate completions!
 
   Keep it short—better to do 20 min than skip 60 min.
@@ -453,7 +477,7 @@ OmniFocus has a built-in Review feature for project health checks. Set review in
 | Volunteer | Every 2 weeks |
 | Personal (Health, Home, Family) | Every 1 month |
 | Business | Every 1 month |
-| Movement Snacks | Every 1 month |
+| Popcorn (Movement, Chores) | Every 1 month |
 
 ### Using the Review Perspective
 
@@ -469,15 +493,25 @@ OmniFocus has a built-in Review feature for project health checks. Set review in
 
 ## 7. Set Up Repeating Tasks
 
-### Movement Snacks Repeat Rule
+### Popcorn Repeat Rules
 
-Each Movement Snack should reappear after completion:
+Each Popcorn task should reappear after completion.
 
-1. Select a Movement Snack task
+**Movement tasks:**
+1. Select a Movement task
 2. Open Inspector (⌥⌘I)
 3. Click **Repeat** field
 4. Set: **Defer another** `4 hours`
-5. Repeat for all 10 Movement Snack tasks
+5. Repeat for all Movement tasks
+
+**Chores tasks:**
+1. Select a Chores task
+2. Open Inspector (⌥⌘I)
+3. Click **Repeat** field
+4. Set interval based on the chore:
+   - Daily chores (dishes): **Defer another** `1 day`
+   - Every few days (laundry, counters): **Defer another** `2-3 days`
+   - Weekly chores (trash): **Weekly** on appropriate day
 
 > **Why "defer another"?** After completing "10 pushups," it will become available again in 4 hours rather than immediately. This prevents the same tasks from cluttering your view.
 
@@ -509,7 +543,7 @@ Focus modes temporarily hide folders/projects to reduce visual noise.
 2. In the dialog, check only:
    - **Clients** folder
    - **Side Projects** folder
-   - **Movement Snacks** project
+   - **Popcorn** folder
 3. Click **Focus**
 4. To save: **Perspectives** menu > **Save Focus as Perspective**
 5. Name it `Work Focus`
@@ -521,7 +555,7 @@ Focus modes temporarily hide folders/projects to reduce visual noise.
    - **Volunteer** folder
    - **Personal** folder
    - **Business** folder
-   - **Movement Snacks** project
+   - **Popcorn** folder
 3. Save as `Life Focus`
 
 ### Switching Focus
@@ -551,7 +585,7 @@ Add short events between meetings:
 - **Duration**: 5 minutes
 - **When**: Between your regular meetings/work blocks
 
-These aren't appointments—they're reminders to check your Movement Snacks perspective.
+These aren't appointments—they're reminders to check your Popcorn perspective.
 
 ---
 
@@ -567,7 +601,7 @@ Use this checklist to confirm everything is set up correctly.
 - [ ] Volunteer projects exist inside Volunteer folder (one per role)
 - [ ] Personal projects exist inside Personal folder
 - [ ] Business projects exist inside Business folder (one per entity)
-- [ ] Movement Snacks exists as a top-level single-action list
+- [ ] Popcorn folder exists with Movement and Chores projects inside
 - [ ] All projects are set to single-action list type
 
 ### Tags
@@ -580,7 +614,7 @@ Use this checklist to confirm everything is set up correctly.
 
 - [ ] Today perspective shows due/flagged/deferred-today tasks
 - [ ] Quick Wins perspective shows only ⚡ 5min tagged tasks
-- [ ] Movement Break perspective shows 🏃 Movement OR 🔄 Transition tasks
+- [ ] Popcorn perspective shows Popcorn folder tasks
 - [ ] Client Focus shows only Clients folder
 - [ ] Volunteer Focus shows only Volunteer folder
 - [ ] Context Switch shows 🟢 Low energy tasks
@@ -588,8 +622,9 @@ Use this checklist to confirm everything is set up correctly.
 
 ### Tasks
 
-- [ ] 10 Movement Snack tasks with all three special tags
-- [ ] Each Movement Snack repeats (defer 4 hours after completion)
+- [ ] Movement tasks exist with all three special tags (🏃 Movement, ⚡ 5min, 🔄 Transition)
+- [ ] Chores tasks exist with appropriate repeat intervals
+- [ ] All Popcorn tasks repeat after completion
 - [ ] Weekly Review task is flagged and repeats weekly
 - [ ] Each client has a backlog review task that repeats weekly
 
@@ -608,12 +643,12 @@ Once setup is complete, here's your daily workflow:
 1. Check calendar
 2. Open **Today** perspective
 3. Flag 3-5 tasks
-4. Glance at **Movement Break**
+4. Glance at **Popcorn**
 
 ### During the Day
 - **Overwhelmed?** → Open **Quick Wins**, do anything
 - **Stuck?** → Open **Context Switch**, do something different
-- **Between tasks?** → Open **Movement Break**, do one thing
+- **Between tasks?** → Open **Popcorn**, do one thing
 
 ### End of Day (5 min)
 1. Process Inbox to zero
@@ -634,10 +669,10 @@ Once setup is complete, here's your daily workflow:
 - Make sure tasks have the required tags
 - Verify tasks aren't blocked by defer dates
 
-### "Movement Snacks disappeared"
+### "Popcorn tasks disappeared"
 
-- They may be deferred. Check in 4 hours, or:
-- Open the Movement Snacks project directly to see all tasks regardless of defer date
+- They may be deferred. Check later, or:
+- Open the Movement or Chores project directly to see all tasks regardless of defer date
 
 ### "I keep forgetting the Weekly Review"
 

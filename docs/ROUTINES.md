@@ -13,14 +13,14 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
 1. Check calendar — What's blocked?
 2. Open Today perspective — What's due?
 3. Flag 3-5 tasks — Realistic daily targets
-4. Glance at Movement Snacks — Prime yourself
+4. Glance at Popcorn — Prime yourself for movement and chores
 
 **Key question:** "If I only did these flagged tasks, would today be a success?"
 
 ### Throughout the Day
 
 - Work from flagged tasks
-- Check Movement Snacks between tasks
+- Check Popcorn between tasks (movement, chores)
 - When stuck → Quick Wins or Context Switch perspective
 - Capture new things to Inbox (don't process now)
 
@@ -51,7 +51,7 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
    - Deadlines approaching?
 3. Check Waiting For items
 4. Review calendar (next 2 weeks)
-5. Review Movement Snacks
+5. Review Popcorn tasks
 6. Celebrate completions
 
 **Key question:** "Do I trust this system contains everything I need to do?"

@@ -82,7 +82,7 @@ Traditional advice: "Block 9-10am for exercise."
 Reality for ADHD: That block gets skipped when something urgent comes up. Then guilt. Then the whole system feels broken.
 
 **This system integrates movement into transitions:**
-- Movement Snacks: micro-exercises (10 pushups, walk around block, stretch)
+- Popcorn → Movement: micro-exercises (10 pushups, walk around block, stretch)
 - Always available, never mandatory
 - Done between tasks, during transitions
 - No guilt if skipped — they're always there
@@ -155,6 +155,33 @@ When in doubt, don't add it. Every folder, project, tag, and perspective is some
 
 ---
 
+## Core Principle: Track What Drifts, Not What's Automatic
+
+Some routines are automatic — you don't need to track them. Others drift into problems if forgotten.
+
+**The test:** What happens if you forget?
+
+| If you forget... | Consequence | Track it? |
+|------------------|-------------|-----------|
+| Brush teeth | You'll notice, do it anyway | No |
+| Shower | Social/comfort feedback | No |
+| Laundry | Run out of clothes | Yes |
+| Take out trash | Misses pickup, smells | Yes |
+| Water plants | They die | Yes |
+
+**Don't track:**
+- Things with fast, obvious feedback loops
+- Things tied to other activities (dishes after cooking)
+- Things with immediate sensory reminders (dirty bathroom you see daily)
+
+**Do track:**
+- Things that can quietly drift into problems
+- Things with longer feedback loops (plants, filters, maintenance)
+
+This is why the Popcorn folder exists — small maintenance tasks that keep life systems running without requiring willpower to remember.
+
+---
+
 ## What Doesn't Belong in OmniFocus
 
 OmniFocus is for **actions you're committed to**. Some things look like tasks but aren't — they're wishes, ideas, or reference lists. Putting them in OmniFocus creates noise and guilt.
@@ -213,8 +240,8 @@ Folders provide top-level organization without affecting task availability. They
 ### Why single-action lists instead of sequential projects?
 Most knowledge work tasks are independent. "Write documentation" doesn't block "Fix bug #42." Single-action lists let you pick based on current context and energy.
 
-### Why Movement Snacks as a top-level project?
-So it's always visible, in every Focus mode. Movement should be an option regardless of what you're working on.
+### Why Popcorn as its own folder?
+The Popcorn folder (Movement + Chores) contains small repeating tasks that maintain life systems. It's included in every Focus mode because these "XP" tasks should be available regardless of what you're working on — movement between client calls, laundry during a work break.
 
 ### Why separate creative projects from business bookkeeping?
 Different mental modes. Creative work and bookkeeping don't belong in the same list. You won't accidentally see "reconcile Q4 expenses" when you're trying to brainstorm project ideas. If you do creative work for an entity you also do books for, keep them in separate projects (one in Personal/Creative, one in Business).

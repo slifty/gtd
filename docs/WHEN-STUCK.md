@@ -58,12 +58,12 @@ Procrastination is avoiding work by doing non-work. Context switching is doing *
 
 ### Steps
 
-1. Open **Movement Break** perspective
-2. Pick one Movement Snack
+1. Open **Popcorn** perspective
+2. Pick one Movement task
 3. Do it (takes 2-5 minutes)
 4. Return to work
 
-### Movement Snacks available
+### Movement tasks available
 
 - 10 pushups
 - 20 squats
@@ -203,7 +203,7 @@ STUCK? TRY THIS:
 
 1. Quick Wins → Do anything small
 2. Context Switch → Do something different
-3. Movement Break → Move your body
+3. Popcorn → Move your body, do a quick chore
 4. Just One Thing → Paper, one task, do it
 5. Body Double → Work with someone nearby
 6. Energy Audit → Match task to actual energy

@@ -38,7 +38,7 @@ Step-by-step procedures for common tasks. Follow these when you need to do somet
    - Consider energy: Is today a Deep day or a Low day?
    - Consider calendar: How much unblocked time do you have?
 
-4. **Glance at Movement Snacks** — Prime yourself. Remember these exist.
+4. **Glance at Popcorn** — Prime yourself. Remember movement and chores exist.
 
 5. **Start working** — Pick a flagged task and begin
 
@@ -94,7 +94,7 @@ Process them quickly (2-min rule: do it, defer it, or delete it). Don't let inbo
    - Any prep tasks to add?
    - Any conflicts to resolve?
 
-6. **Review Movement Snacks**
+6. **Review Popcorn**
    - Are these still the right options?
    - Add or remove as needed
 

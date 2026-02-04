@@ -22,7 +22,7 @@ This is a **low-friction GTD system** designed for someone who:
 
 3. **Minimal tag system.** Only three categories: Energy (Deep/Low), Context (Computer/Phone/Home/Errands/With Others), Special (5min/Transition/Movement). Default = normal energy, any context.
 
-4. **Movement is integrated, not blocked.** No "exercise 9-10am" blocks. Instead, micro-movements (Movement Snacks) done between tasks.
+4. **Movement is integrated, not blocked.** No "exercise 9-10am" blocks. Instead, micro-movements and chores (Popcorn folder) done between tasks.
 
 5. **Quick wins for overwhelm.** When stuck, do ANY small task to build momentum.
 
@@ -40,13 +40,13 @@ This is a **low-friction GTD system** designed for someone who:
 ### Key Perspectives
 - **Today** — due + flagged + deferred today
 - **Quick Wins** — all ⚡ 5min tasks (for overwhelm)
-- **Movement Break** — 🏃 Movement and 🔄 Transition tasks
+- **Popcorn** — Movement and Chores tasks from the Popcorn folder
 - **Client Focus** / **Volunteer Focus** — folder-filtered views
 - **Context Switch** — 🟢 Low energy tasks (when stuck on hard thing)
 - **Weekly Review** — all projects, remaining tasks
 
 ### Special Project
-- **Movement Snacks** — top-level single-action list, always visible, micro-exercises that repeat after completion
+- **Popcorn** — folder containing Movement and Chores projects, always visible, small repeating tasks that maintain life systems
 
 ## How to Help
 
@@ -65,7 +65,7 @@ This is a **low-friction GTD system** designed for someone who:
 ### When user seems overwhelmed
 - Point them to WHEN-STUCK.md
 - Suggest Quick Wins perspective
-- Suggest Movement Break perspective
+- Suggest Popcorn perspective
 - Remind them: pick ANY task, momentum builds
 
 ### When user asks about reviews

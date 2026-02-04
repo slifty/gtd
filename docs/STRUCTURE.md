@@ -12,6 +12,7 @@ The current structure of your OmniFocus setup. Reference this when you need to r
 📁 Side Projects  — Unpaid projects with real scope (software, creative, open source)
 📁 Personal       — Life maintenance (health, home, family, hobbies)
 📁 Business       — Bookkeeping and company admin
+📁 Popcorn        — Small repeating tasks that maintain life systems (body, home)
 ```
 
 ---
@@ -117,11 +118,35 @@ Example structure:
    📋 Side Business (Books)
 ```
 
-### Top-Level
+### Popcorn
+
+Small repeating tasks that maintain life systems. These are "XP" — quick wins that accumulate over time.
 
 | Project | Purpose |
 |---------|---------|
-| Movement Snacks | Micro-exercises, always visible |
+| Movement | Micro-exercises between tasks |
+| Chores | Household maintenance rhythms |
+
+Example structure:
+```
+📁 Popcorn
+   📋 Movement
+      ◯ 10 pushups [repeat: defer 4 hours]
+      ◯ 20 squats [repeat: defer 4 hours]
+      ◯ Walk around the block [repeat: defer 4 hours]
+      ◯ 5-minute stretch [repeat: defer 4 hours]
+   📋 Chores
+      ◯ Do a load of laundry [repeat: defer 3 days]
+      ◯ Run dishwasher [repeat: defer 1 day]
+      ◯ Take out trash [repeat: weekly]
+      ◯ Wipe kitchen counters [repeat: defer 2 days]
+```
+
+**Key characteristics:**
+- Tasks repeat after completion (defer, not due)
+- Always available, never mandatory
+- No guilt if skipped — they resurface naturally
+- Done in transitions or when noticed
 
 ---
 
@@ -162,7 +187,7 @@ Example structure:
 |-------------|-------|----------|
 | **Today** | Due + Flagged + Deferred today | Morning planning, throughout day |
 | **Quick Wins** | All ⚡ 5min tasks | Overwhelmed, need momentum |
-| **Movement Break** | 🏃 Movement + 🔄 Transition tasks | Between tasks, need to move |
+| **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
 | **Client Focus** | Clients folder only | Dedicated client work time |
 | **Volunteer Focus** | Volunteer folder only | Evening/weekend volunteer time |
 | **Context Switch** | 🟢 Low energy tasks | Stuck on hard thing, need change |
@@ -174,8 +199,8 @@ Example structure:
 
 | Focus | Shows | Use When |
 |-------|-------|----------|
-| Work | Clients + Side Projects + Movement Snacks | During work hours, building things |
-| Life | Volunteer + Personal + Business + Movement Snacks | Evenings, weekends, life maintenance |
+| Work | Clients + Side Projects + Popcorn | During work hours, building things |
+| Life | Volunteer + Personal + Business + Popcorn | Evenings, weekends, life maintenance |
 | *(unfocused)* | Everything | Weekly reviews |
 
 ---
@@ -209,7 +234,8 @@ Recurring tasks are for **syncing with external systems**, not project health (t
 | Check [Client] backlog | Weekly (Monday) | Clients with GitHub/Jira — pull in new work |
 | Check [Side Project] backlog | Weekly or biweekly | Side projects with GitHub — pull in new issues |
 | Weekly Review | Weekly (Sunday) | Always — system maintenance |
-| Movement Snacks | 4 hours after completion | Always — keep movement options available |
+| Popcorn (Movement) | 4 hours after completion | Always — keep movement options available |
+| Popcorn (Chores) | Varies (1-7 days) | Always — household maintenance rhythms |
 
 **Key distinction:**
 - **Built-in Review** = "Is this project healthy in OmniFocus?"
@@ -234,5 +260,6 @@ If a project has no external system (lives only in your head/OmniFocus), it does
 | Personal taxes, insurance, investments | Finances |
 | Hobby practice (ongoing) | Hobbies |
 | Bookkeeping (business) | Relevant business project |
-| Physical exercise | Movement Snacks |
+| Physical exercise | Popcorn → Movement |
+| Household chore (laundry, dishes, etc.) | Popcorn → Chores |
 | Meeting follow-up | Project related to meeting topic |

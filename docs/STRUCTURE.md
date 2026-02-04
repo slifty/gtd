@@ -8,8 +8,8 @@ The current structure of your OmniFocus setup. Reference this when you need to r
 
 ```
 📁 Clients        — Paid freelance/contract work
-📁 Side Projects  — Unpaid projects with real scope (software, creative, open source)
 📁 Volunteer      — Elected/appointed roles, community involvement
+📁 Side Projects  — Unpaid projects with real scope (software, creative, open source)
 📁 Personal       — Life maintenance (health, home, family, hobbies)
 📁 Business       — Bookkeeping and company admin
 ```
@@ -182,9 +182,9 @@ Use OmniFocus's built-in Review feature for project health checks. Set review in
 | Project Type | Review Interval | Purpose |
 |--------------|-----------------|---------|
 | Clients | Weekly | Active engagement, needs frequent attention |
+| Volunteer | Biweekly | Community commitments |
 | Side Projects (active) | Monthly | Passion projects, less urgency |
 | Side Projects (dormant) | 3 months | Keep on radar without clutter |
-| Volunteer | Biweekly | Community commitments |
 | Personal | Monthly | Life maintenance |
 | Business | Monthly | Bookkeeping cycles |
 
@@ -220,12 +220,12 @@ If a project has no external system (lives only in your head/OmniFocus), it does
 |--------------|---------|
 | Client deliverable work | Relevant client project |
 | Client admin (invoice, contract) | Client project (or separate admin project) |
+| Volunteer duty | Relevant volunteer project |
 | Side project work | Relevant side project |
-| Meeting follow-up | Project related to meeting topic |
 | Personal health task | Health & Body |
 | House repair/maintenance | House & Home |
 | Family activity/responsibility | Family |
 | Hobby practice (ongoing) | Hobbies |
 | Bookkeeping | Relevant business project |
 | Physical exercise | Movement Snacks |
-| Volunteer duty | Relevant volunteer project |
+| Meeting follow-up | Project related to meeting topic |

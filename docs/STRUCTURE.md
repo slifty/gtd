@@ -75,6 +75,7 @@ Life maintenance organized by area. Recurring life events (annual trips, holiday
 | Health & Body | Medical, fitness, wellness |
 | House & Home | Maintenance, improvements, household |
 | Family | Family activities, responsibilities |
+| Finances | Taxes, insurance, investments, estate planning |
 | Hobbies | Music practice, crafts, ongoing pursuits |
 
 Example structure:
@@ -93,6 +94,10 @@ Example structure:
       ◯ Book ferry for vacation
       ◯ Schedule family photos
       ◯ Plan kid's birthday party
+   📋 Finances
+      ◯ File taxes [repeat: yearly, February - checklist in notes]
+      ◯ Review insurance policies [repeat: yearly]
+      ◯ Update beneficiaries
    📋 Hobbies
       ◯ Practice guitar (30 min)
       ◯ Order new strings
@@ -225,7 +230,8 @@ If a project has no external system (lives only in your head/OmniFocus), it does
 | Personal health task | Health & Body |
 | House repair/maintenance | House & Home |
 | Family activity/responsibility | Family |
+| Personal taxes, insurance, investments | Finances |
 | Hobby practice (ongoing) | Hobbies |
-| Bookkeeping | Relevant business project |
+| Bookkeeping (business) | Relevant business project |
 | Physical exercise | Movement Snacks |
 | Meeting follow-up | Project related to meeting topic |

@@ -226,6 +226,7 @@ If it's a scoped project, see [Onboarding a New Side Project](#onboarding-a-new-
    - Health & Body — medical, fitness, wellness
    - House & Home — maintenance, improvements
    - Family — family activities, responsibilities
+   - Finances — taxes, insurance, investments, estate planning
    - Hobbies — music, art, ongoing pursuits
 
 2. **Add tasks to existing project** (preferred)

@@ -97,6 +97,7 @@ Projects live inside folders. You'll also create one special top-level project.
    - `Health & Body`
    - `House & Home`
    - `Family`
+   - `Finances`
    - `Hobbies` (or specific hobby name)
 3. **For each personal project**, set it as a single-action list:
    - Select the project
@@ -141,6 +142,7 @@ All projects should be **single-action lists** (not sequential):
    📋 Health & Body ⟲
    📋 House & Home ⟲
    📋 Family ⟲
+   📋 Finances ⟲
    📋 Hobbies ⟲
 📁 Business
    📋 [Your business entities] ⟲

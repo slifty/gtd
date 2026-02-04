@@ -15,10 +15,11 @@ One-time setup instructions for your productivity system.
 3. [Create Tags](#3-create-tags)
 4. [Create Perspectives](#4-create-perspectives)
 5. [Add Initial Tasks](#5-add-initial-tasks)
-6. [Set Up Repeating Tasks](#6-set-up-repeating-tasks)
-7. [Configure Focus Modes](#7-configure-focus-modes-optional)
-8. [Calendar Setup](#8-calendar-setup)
-9. [Verification Checklist](#9-verification-checklist)
+6. [Set Project Review Intervals](#6-set-project-review-intervals)
+7. [Set Up Repeating Tasks](#7-set-up-repeating-tasks)
+8. [Configure Focus Modes](#8-configure-focus-modes-optional)
+9. [Calendar Setup](#9-calendar-setup)
+10. [Verification Checklist](#10-verification-checklist)
 
 ---
 
@@ -415,19 +416,56 @@ Add to **Health & Body** project:
   Keep it short—better to do 20 min than skip 60 min.
   ```
 
-### Client Backlog Review Tasks
+### External System Sync Tasks (Only If Needed)
 
-Add one task to each client project:
+Only add these for projects with external systems (GitHub, Jira, etc.):
 
-| Project | Task Name | Tags |
-|---------|-----------|------|
-| Each client | Review [Client] backlog | `💻 Computer`, `⚡ 5min` |
+| Project Type | Task Name | When Needed |
+|--------------|-----------|-------------|
+| Clients with GitHub/Jira | Check [Client] backlog | Yes |
+| Side projects with GitHub | Check [Project] backlog | Yes |
+| Projects without external systems | — | No task needed |
 
-**Note for each**: "Check GitHub/Jira/project tracker for open issues. Update OmniFocus with new milestones. Check waiting-for items."
+**Note for each**: "Check [system] for new issues. Pull in anything that needs action."
 
 ---
 
-## 6. Set Up Repeating Tasks
+## 6. Set Project Review Intervals
+
+OmniFocus has a built-in Review feature for project health checks. Set review intervals on each project.
+
+### How to Set Review Interval
+
+1. Select a project
+2. Open Inspector (⌥⌘I)
+3. Find the **Review** field
+4. Set the interval
+
+### Recommended Intervals
+
+| Project Type | Review Interval |
+|--------------|-----------------|
+| Clients | Every 1 week |
+| Side Projects (active) | Every 1 month |
+| Side Projects (dormant) | Every 3 months |
+| Volunteer | Every 2 weeks |
+| Personal (Health, Home, Family) | Every 1 month |
+| Business | Every 1 month |
+| Movement Snacks | Every 1 month |
+
+### Using the Review Perspective
+
+1. Go to **Perspectives** > **Review** (or press ⌘6)
+2. Projects due for review appear here
+3. For each project, ask:
+   - Does it have a clear next action?
+   - Is it still relevant?
+   - Should the review interval change?
+4. Click **Mark Reviewed** when done
+
+---
+
+## 7. Set Up Repeating Tasks
 
 ### Movement Snacks Repeat Rule
 
@@ -459,7 +497,7 @@ For each client review task:
 
 ---
 
-## 7. Configure Focus Modes (Optional)
+## 8. Configure Focus Modes (Optional)
 
 Focus modes temporarily hide folders/projects to reduce visual noise.
 
@@ -468,6 +506,7 @@ Focus modes temporarily hide folders/projects to reduce visual noise.
 1. Go to **View** menu > **Focus**
 2. In the dialog, check only:
    - **Clients** folder
+   - **Side Projects** folder
    - **Movement Snacks** project
 3. Click **Focus**
 4. To save: **Perspectives** menu > **Save Focus as Perspective**
@@ -490,7 +529,7 @@ Focus modes temporarily hide folders/projects to reduce visual noise.
 
 ---
 
-## 8. Calendar Setup
+## 9. Calendar Setup
 
 ### Weekly Review Appointment
 
@@ -514,7 +553,7 @@ These aren't appointments—they're reminders to check your Movement Snacks pers
 
 ---
 
-## 9. Verification Checklist
+## 10. Verification Checklist
 
 Use this checklist to confirm everything is set up correctly.
 

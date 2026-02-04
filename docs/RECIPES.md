@@ -13,6 +13,7 @@ Step-by-step procedures for common tasks. Follow these when you need to do somet
 - [Onboarding a New Client](#onboarding-a-new-client)
 - [Onboarding a New Volunteer Role](#onboarding-a-new-volunteer-role)
 - [Adding a New Personal Project](#adding-a-new-personal-project)
+- [Onboarding a New Side Project](#onboarding-a-new-side-project)
 - [Recurring Life Events](#recurring-life-events)
 - [Processing a Meeting](#processing-a-meeting)
 - [Processing Email to Tasks](#processing-email-to-tasks)
@@ -153,26 +154,27 @@ The goal is momentum, not perfection.
    - Name it: `[Client Name]`
    - Set Project Type to **Single Actions** (Inspector → Project Type)
 
-2. **Add the backlog review task**
-   - Add task: `Review [Client] backlog`
+2. **Set the review interval**
+   - In Inspector, set **Review** to **Every 1 week**
+   - This queues the project in OmniFocus's Review perspective weekly
+
+3. **Add external system sync task** (if applicable)
+   - Only if client has GitHub/Jira/external tracker
+   - Add task: `Check [Client] backlog`
    - Set repeat: Weekly on Monday
    - Tag: 💻 Computer, ⚡ 5min
-   - Note: "Check [GitHub/Jira/system] for open issues. Update OmniFocus with new milestones."
+   - Note: "Check [GitHub/Jira] for new issues. Pull in anything that needs action."
 
-3. **Add any known tasks**
+4. **Add any known tasks**
    - Current deliverables with deadlines
    - Administrative tasks (contracts, invoicing)
    - Waiting-for items
 
-4. **Update STRUCTURE.md** (optional)
-   - Add the new client to the Clients table
-   - Update recurring tasks list
-
 ### Example result
 
 ```
-📋 New Client
-   ◯ Review New Client backlog [repeat: weekly Monday]
+📋 New Client [review: weekly]
+   ◯ Check New Client backlog [repeat: weekly Monday] ← only if external system
    ◯ Complete onboarding paperwork [due: this week]
    ◯ Set up development environment
    ⏸ Waiting: Access credentials from client
@@ -192,16 +194,18 @@ The goal is momentum, not perfection.
    - Name it: `[Role Name] ([Position])`
    - Set Project Type to **Single Actions**
 
-2. **Add initial tasks**
+2. **Set the review interval**
+   - In Inspector, set **Review** to **Every 2 weeks**
+   - Volunteer commitments need regular attention
+
+3. **Add initial tasks**
    - Any immediate commitments
    - Recurring meetings (add prep tasks)
    - People to meet/contact
 
-3. **Consider recurring reviews**
-   - If there's an external system (email list, shared docs), add a review task
-
-4. **Update Life Focus mode** (if needed)
-   - Volunteer folder should already be included
+4. **Add external system sync task** (only if needed)
+   - Only if there's an external system (shared docs, email list, etc.)
+   - Add recurring task to check it
 
 ---
 
@@ -209,14 +213,20 @@ The goal is momentum, not perfection.
 
 **Time:** 5 minutes
 
-### Steps
+### First: Personal or Side Project?
+
+- **Side Projects folder** — Has real scope, deliverables, could be "done" (software, creative work, open source)
+- **Personal folder** — Ongoing life maintenance, no "done" state
+
+If it's a scoped project, see [Onboarding a New Side Project](#onboarding-a-new-side-project).
+
+### Steps (for Personal)
 
 1. **Decide which project**
    - Health & Body — medical, fitness, wellness
    - House & Home — maintenance, improvements
    - Family — family activities, responsibilities
-   - Creative Projects — side projects, creative work
-   - Hobbies — music, art, other pursuits
+   - Hobbies — music, art, ongoing pursuits
 
 2. **Add tasks to existing project** (preferred)
    - Most "projects" are just tasks in an existing single-action list
@@ -224,6 +234,60 @@ The goal is momentum, not perfection.
 3. **Or create a sub-project** (rare)
    - Only if it's a distinct, time-bound effort
    - Example: "Kitchen Renovation" as a project under House & Home
+
+---
+
+## Onboarding a New Side Project
+
+**Time:** 10 minutes
+
+Side projects have scope and deliverables, but less urgency than client work.
+
+### Steps
+
+1. **Create the project**
+   - Go to Side Projects folder
+   - Press ⌘N to create new project
+   - Name it: `[Project Name]`
+   - Set Project Type to **Single Actions** (Inspector → Project Type)
+
+2. **Set the review interval**
+   - In Inspector, set **Review** based on how active the project is:
+     - Active project: **Every 1 month**
+     - Dormant/back-burner: **Every 3 months**
+   - This queues the project in OmniFocus's Review perspective
+
+3. **Add external system sync task** (only if needed)
+   - Only if the project has a GitHub repo or external tracker
+   - Add task: `Check [Project] backlog`
+   - Set repeat: Weekly or biweekly
+   - Tag: 💻 Computer, ⚡ 5min
+   - Note: "Check GitHub for new issues. Pull in anything to work on."
+
+   **If the project lives only in your head/OmniFocus:** Skip this step. The built-in Review is enough.
+
+4. **Add any known tasks**
+   - Current priorities or milestones
+   - Ideas to explore
+   - Documentation to write
+
+### Example: Side project with GitHub
+
+```
+📋 TV Kitchen [review: monthly]
+   ◯ Check TV Kitchen GitHub [repeat: weekly] ← has external system
+   ◯ Implement pipeline caching
+   ◯ Write README documentation
+```
+
+### Example: Side project without external system
+
+```
+📋 Novel Draft [review: monthly]
+   ◯ Write chapter 3 outline        ← no recurring task needed
+   ◯ Research 1920s slang
+   ◯ Develop antagonist backstory
+```
 
 ---
 

@@ -175,15 +175,42 @@ Example structure:
 
 ---
 
+## Project Review Intervals
+
+Use OmniFocus's built-in Review feature for project health checks. Set review intervals on each project:
+
+| Project Type | Review Interval | Purpose |
+|--------------|-----------------|---------|
+| Clients | Weekly | Active engagement, needs frequent attention |
+| Side Projects (active) | Monthly | Passion projects, less urgency |
+| Side Projects (dormant) | 3 months | Keep on radar without clutter |
+| Volunteer | Biweekly | Community commitments |
+| Personal | Monthly | Life maintenance |
+| Business | Monthly | Bookkeeping cycles |
+
+**What to ask during Review:**
+- Does this project have a clear next action?
+- Is this project still relevant?
+- Should the review interval change?
+
+---
+
 ## Recurring Tasks
 
-Each project should have appropriate recurring tasks:
+Recurring tasks are for **syncing with external systems**, not project health (that's what Review is for).
 
-| Task Type | Frequency | Purpose |
-|-----------|-----------|---------|
-| Review [Client] backlog | Weekly (Monday) | Check external systems (GitHub, Jira, etc.) |
-| Weekly Review | Weekly (Sunday) | System maintenance |
-| Movement Snacks | 4 hours after completion | Keep movement options available |
+| Task Type | Frequency | When Needed |
+|-----------|-----------|-------------|
+| Check [Client] backlog | Weekly (Monday) | Clients with GitHub/Jira — pull in new work |
+| Check [Side Project] backlog | Weekly or biweekly | Side projects with GitHub — pull in new issues |
+| Weekly Review | Weekly (Sunday) | Always — system maintenance |
+| Movement Snacks | 4 hours after completion | Always — keep movement options available |
+
+**Key distinction:**
+- **Built-in Review** = "Is this project healthy in OmniFocus?"
+- **Recurring task** = "Go check an external system for new things"
+
+If a project has no external system (lives only in your head/OmniFocus), it doesn't need a recurring "check backlog" task — the built-in Review is enough.
 
 ---
 

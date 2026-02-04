@@ -51,9 +51,9 @@ This is a **low-friction GTD system** designed for someone who:
 ## How to Help
 
 ### When user asks about adding something new
-- New client → Create single-action list in Clients folder, add "Review [Client] backlog" recurring task
-- New side project → Create single-action list in Side Projects folder, add "Review [Project] backlog" recurring task (treat like a client)
-- New volunteer role → Create single-action list in Volunteer folder
+- New client → Create single-action list in Clients folder, set weekly review interval, add "Check backlog" recurring task only if has external system (GitHub/Jira)
+- New side project → Create single-action list in Side Projects folder, set monthly review interval, add "Check backlog" recurring task only if has GitHub
+- New volunteer role → Create single-action list in Volunteer folder, set biweekly review interval
 - New personal area → Usually add to existing project (Health & Body, House & Home, etc.)
 - New task → Add to appropriate project, consider tags (energy, context, 5min if quick)
 
@@ -71,6 +71,8 @@ This is a **low-friction GTD system** designed for someone who:
 ### When user asks about reviews
 - Daily: See ROUTINES.md — morning planning (10-15 min), shutdown (5 min)
 - Weekly: See ROUTINES.md and RECIPES.md — full review checklist (30-45 min)
+- Project reviews: Use OmniFocus's built-in Review feature (not recurring tasks)
+- Recurring "check backlog" tasks: Only for projects with external systems (GitHub, Jira)
 
 ### When user asks about tags
 - Energy: Only tag if notably deep focus OR notably low energy. Default = normal.

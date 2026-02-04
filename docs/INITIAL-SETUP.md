@@ -96,7 +96,7 @@ Projects live inside folders. You'll also create one special top-level project.
 2. Create these projects:
    - `Self Care`
    - `House & Home`
-   - `Family`
+   - `Family & Friends`
    - `Finances`
    - `Hobbies` (or specific hobby name)
 3. **For each personal project**, set it as a single-action list:
@@ -149,7 +149,7 @@ All projects should be **single-action lists** (not sequential):
 📁 Personal
    📋 Self Care ⟲
    📋 House & Home ⟲
-   📋 Family ⟲
+   📋 Family & Friends ⟲
    📋 Finances ⟲
    📋 Hobbies ⟲
 📁 Business
@@ -475,7 +475,7 @@ OmniFocus has a built-in Review feature for project health checks. Set review in
 | Side Projects (active) | Every 1 month |
 | Side Projects (dormant) | Every 3 months |
 | Volunteer | Every 2 weeks |
-| Personal (Health, Home, Family) | Every 1 month |
+| Personal (Self Care, Home, Family & Friends) | Every 1 month |
 | Business | Every 1 month |
 | Popcorn (Movement, Chores) | Every 1 month |
 

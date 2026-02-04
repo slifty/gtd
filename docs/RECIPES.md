@@ -225,7 +225,7 @@ If it's a scoped project, see [Onboarding a New Side Project](#onboarding-a-new-
 1. **Decide which project**
    - Self Care — medical, fitness, wellness, grooming, clothing
    - House & Home — maintenance, improvements
-   - Family — family activities, responsibilities
+   - Family & Friends — family activities, friend relationships, social events, holidays
    - Finances — taxes, insurance, investments, estate planning
    - Hobbies — music, art, ongoing pursuits
 
@@ -315,7 +315,7 @@ You only need the *trigger*, not the whole sequence.
 ### Setup Steps
 
 1. **Create the recurring task**
-   - Project: Relevant personal project (usually Family or Self Care)
+   - Project: Relevant personal project (usually Family & Friends or Self Care)
    - Name: "Plan [event name]" (e.g., "Plan summer vacation")
    - Repeat: Yearly, set to appear when planning naturally starts
    - Tag: Consider `🔴 Deep` if planning requires focus
@@ -363,14 +363,46 @@ Vacation planning checklist:
 
 ### Other Examples
 
-| Event | Recurring Task | When It Appears |
-|-------|---------------|-----------------|
-| Annual physical | "Schedule annual physical" | January |
-| Holiday gifts | "Plan holiday gifts" | November 1 |
-| Tax prep | "Gather tax documents" | February 1 |
-| Kid's birthday | "Plan [name]'s birthday" | 6 weeks before |
-| Seasonal HVAC | "Schedule HVAC maintenance" | March and September |
-| Car registration | "Renew car registration" | 1 month before expiry |
+| Event | Recurring Task | When It Appears | Project |
+|-------|---------------|-----------------|---------|
+| Annual physical | "Schedule annual physical" | January | Self Care |
+| Tax prep | "Gather tax documents" | February 1 | Finances |
+| Kid's birthday | "Plan [name]'s birthday" | 6 weeks before | Family & Friends |
+| Seasonal HVAC | "Schedule HVAC maintenance" | March and September | House & Home |
+| Car registration | "Renew car registration" | 1 month before expiry | Finances |
+| Halloween | "Plan Halloween" | September 1 | Family & Friends |
+| Thanksgiving | "Plan Thanksgiving" | October 1 | Family & Friends |
+| Christmas | "Plan Christmas" | November 1 | Family & Friends |
+| Valentine's Day | "Plan Valentine's Day" | January 15 | Family & Friends |
+| Easter | "Plan Easter" | 6 weeks before | Family & Friends |
+| Mother's/Father's Day | "Plan Mother's Day" | April 1 | Family & Friends |
+
+### Example: Holiday Planning (Christmas)
+
+**Recurring task:** "Plan Christmas" (appears November 1)
+**In notes:**
+```
+Christmas checklist:
+- [ ] Discuss gift budget
+- [ ] Make gift list for family
+- [ ] Make gift list for friends
+- [ ] Buy/make gifts
+- [ ] Plan decorations
+- [ ] Put up decorations
+- [ ] Plan holiday meals
+- [ ] Coordinate travel/hosting
+- [ ] Send holiday cards (if doing)
+- [ ] Take down decorations (January)
+```
+
+**During November weekly review:**
+- See "Plan Christmas" is now available
+- Create task: "Make Christmas gift list"
+- Create task: "Buy Christmas decorations" (if needed)
+
+**During December weekly reviews:**
+- Pull out gift-buying tasks as needed
+- Create task: "Put up Christmas decorations"
 
 ### When to Create a Full Project Instead
 

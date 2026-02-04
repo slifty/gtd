@@ -75,7 +75,7 @@ Life maintenance organized by area. Recurring life events (annual trips, holiday
 |---------|---------|
 | Self Care | Medical, fitness, wellness, grooming, clothing |
 | House & Home | Maintenance, improvements, household |
-| Family | Family activities, responsibilities |
+| Family & Friends | Family activities, friend relationships, social events |
 | Finances | Taxes, insurance, investments, estate planning |
 | Hobbies | Music practice, crafts, ongoing pursuits |
 
@@ -93,11 +93,13 @@ Example structure:
       ◯ Schedule HVAC maintenance [repeat: yearly, spring]
       ◯ Fix leaky faucet
       ◯ Get quotes for deck repair
-   📋 Family
+   📋 Family & Friends
       ◯ Plan summer vacation [repeat: yearly, March - checklist in notes]
+      ◯ Plan Halloween [repeat: yearly, September - checklist in notes]
+      ◯ Plan Christmas [repeat: yearly, November - checklist in notes]
       ◯ Book ferry for vacation
       ◯ Schedule family photos
-      ◯ Plan kid's birthday party
+      ◯ Buy birthday gift for friend
    📋 Finances
       ◯ File taxes [repeat: yearly, February - checklist in notes]
       ◯ Review insurance policies [repeat: yearly]
@@ -261,7 +263,9 @@ If a project has no external system (lives only in your head/OmniFocus), it does
 | Grooming (haircut, etc.) | Self Care |
 | Clothing (wardrobe, dry cleaning) | Self Care |
 | House repair/maintenance | House & Home |
-| Family activity/responsibility | Family |
+| Family activity/responsibility | Family & Friends |
+| Friend gift or social plan | Family & Friends |
+| Holiday/event planning | Family & Friends |
 | Personal taxes, insurance, investments | Finances |
 | Hobby practice (ongoing) | Hobbies |
 | Bookkeeping (business) | Relevant business project |

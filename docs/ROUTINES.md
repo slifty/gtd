@@ -49,8 +49,7 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
    - Clear next action?
    - Still relevant?
    - Deadlines approaching?
-3. Check Waiting For items
-4. Review calendar (next 2 weeks)
+3. Review calendar (next 2 weeks)
 5. Review Popcorn tasks
 6. Celebrate completions
 

@@ -86,11 +86,7 @@ Process them quickly (2-min rule: do it, defer it, or delete it). Don't let inbo
    - Is this project still relevant? (If not, put on hold or drop)
    - Any deadlines approaching? (If yes, flag or add due dates)
 
-4. **Check Waiting For items**
-   - Any follow-ups needed?
-   - Has anything been waiting too long?
-
-5. **Review calendar — next 2 weeks**
+4. **Review calendar — next 2 weeks**
    - Any prep tasks to add?
    - Any conflicts to resolve?
 
@@ -168,7 +164,7 @@ The goal is momentum, not perfection.
 4. **Add any known tasks**
    - Current deliverables with deadlines
    - Administrative tasks (contracts, invoicing)
-   - Waiting-for items
+   - Blocked items (defer until unblocked)
 
 ### Example result
 
@@ -176,8 +172,7 @@ The goal is momentum, not perfection.
 📋 New Client [review: weekly]
    ◯ Check New Client backlog [repeat: weekly Monday] ← only if external system
    ◯ Complete onboarding paperwork [due: this week]
-   ◯ Set up development environment
-   ⏸ Waiting: Access credentials from client
+   ◯ Set up development environment [defer: when credentials received]
 ```
 
 ---
@@ -431,9 +426,9 @@ Even then, ask: does this need OmniFocus, or is a shared doc better?
    - Set due date if there's a deadline
    - Tag appropriately (energy, context)
 
-3. **For each thing you're waiting on:**
-   - Create a task: "Waiting: [thing] from [person]"
-   - Or use OmniFocus's "On Hold" status
+3. **For each thing you're blocked on:**
+   - Create the task you'll do once unblocked
+   - Defer it until you expect to be unblocked (e.g. "Write API integration code", deferred to Friday)
 
 4. **For each decision made:**
    - Document in the appropriate place (not OmniFocus)
@@ -444,8 +439,7 @@ Even then, ask: does this need OmniFocus, or is a shared doc better?
 Meeting outcome: "Client will send API docs by Friday, then I'll write integration code"
 
 Tasks created:
-- `Waiting: API docs from client [from 2/4 meeting]` — in client project
-- `Write API integration code` — in client project, deferred until Friday
+- `Write API integration code [from 2/4 meeting]` — in client project, deferred until Friday
 
 ---
 
@@ -467,7 +461,8 @@ Tasks created:
    - Archive the email
 
 4. **If waiting for response:**
-   - Create "Waiting: [response] from [person]"
+   - Create the task you'll do once you get the response
+   - Defer it until you expect to hear back
    - Archive the email
 
 ### Anti-patterns

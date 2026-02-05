@@ -434,8 +434,7 @@ Add to **Self Care** project:
      - Is there a clear next action?
      - Is this project still relevant?
      - Any deadlines approaching?
-  3. Review "Waiting For" items—follow up needed?
-  4. Review calendar—next 2 weeks
+  3. Review calendar—next 2 weeks
   5. Review Popcorn tasks—still the right options?
   6. Celebrate completions!
 

@@ -89,8 +89,8 @@ This is a **low-friction GTD system** designed for someone who:
 ```
 omnifocus/
 ├── README.md                  # Navigation hub, entry point
+├── AGENTS.md                  # This file — instructions for AI assistants
 └── docs/
-    ├── AGENTS.md              # This file — instructions for AI assistants
     ├── PHILOSOPHY.md          # Core principles and decision rationale
     ├── STRUCTURE.md           # System structure (folders, projects, tags, perspectives)
     ├── RECIPES.md             # Step-by-step procedures for common tasks

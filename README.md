@@ -34,8 +34,8 @@ Your personal reference for maintaining a low-friction productivity system.
 ```
 omnifocus/
 ├── README.md                  ← You are here
+├── AGENTS.md                  # Instructions for Claude
 └── docs/
-    ├── AGENTS.md              # Instructions for Claude
     ├── PHILOSOPHY.md          # Core principles and rationale
     ├── STRUCTURE.md           # Folders, projects, tags, perspectives
     ├── RECIPES.md             # Step-by-step procedures
@@ -52,7 +52,7 @@ omnifocus/
 | [ROUTINES.md](docs/ROUTINES.md) | Daily and weekly rhythms. What to do and when. |
 | [WHEN-STUCK.md](docs/WHEN-STUCK.md) | Overwhelm recovery. Quick wins, context switching, movement. |
 | [INITIAL-SETUP.md](docs/INITIAL-SETUP.md) | One-time setup instructions. |
-| [AGENTS.md](docs/AGENTS.md) | Instructions for Claude. Helps AI understand your system. |
+| [AGENTS.md](AGENTS.md) | Instructions for Claude. Helps AI understand your system. |
 
 ---
 

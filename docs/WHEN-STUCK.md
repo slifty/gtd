@@ -37,7 +37,7 @@ Add some tasks with ⚡ 5min tag:
 ### Steps
 
 1. Recognize: "I'm stuck on this."
-2. Open **Context Switch** perspective (🟢 Low energy tasks)
+2. Open **Context Switch** perspective (😎 Shallow tasks)
 3. Pick something completely different
 4. Do it
 5. Return to the hard task later (or tomorrow)
@@ -133,7 +133,7 @@ Having another person nearby while you work. They don't need to help — just be
 
 ---
 
-## The Energy Audit
+## The Mode Audit
 
 **When:** You're stuck repeatedly, nothing seems to work
 
@@ -141,13 +141,13 @@ Having another person nearby while you work. They don't need to help — just be
 
 1. Stop trying to force it
 2. Ask: "What's my actual energy level right now?"
-3. Match task to energy:
+3. Match task to mode:
 
 | Energy | Do this |
 |--------|---------|
-| High | 🔴 Deep work, hard tasks |
+| High | 🤔 Deep Work tasks, hard problems |
 | Medium | Normal tasks, flagged items |
-| Low | 🟢 Low energy tasks, admin |
+| Low | 😎 Shallow tasks, admin |
 | None | Rest. Seriously. |
 
 ### "None" is valid
@@ -206,7 +206,7 @@ STUCK? TRY THIS:
 3. Popcorn → Move your body, do a quick chore
 4. Just One Thing → Paper, one task, do it
 5. Body Double → Work with someone nearby
-6. Energy Audit → Match task to actual energy
+6. Mode Audit → Match task to actual energy
 7. Nuclear Option → One thing this week, ignore rest
 
 "None" energy = rest, not productivity hacks

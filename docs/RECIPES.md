@@ -35,7 +35,7 @@ Step-by-step procedures for common tasks. Follow these when you need to do somet
 2. **Open Today perspective** — Scan what's due and flagged
 
 3. **Flag 3-5 tasks** — Be realistic. Ask: "If I only did these, would today be a success?"
-   - Consider energy: Is today a Deep day or a Low day?
+   - Consider energy: Is today a Deep Work day or a Shallow day?
    - Consider calendar: How much unblocked time do you have?
 
 4. **Glance at Popcorn** — Prime yourself. Remember movement and chores exist.
@@ -313,7 +313,7 @@ You only need the *trigger*, not the whole sequence.
    - Project: Relevant personal project (usually Family & Friends or Self Care)
    - Name: "Plan [event name]" (e.g., "Plan summer vacation")
    - Repeat: Yearly, set to appear when planning naturally starts
-   - Tag: Consider `🔴 Deep` if planning requires focus
+   - Tag: Consider `🤔 Deep Work` if planning requires focus
 
 2. **Add checklist to notes**
    ```

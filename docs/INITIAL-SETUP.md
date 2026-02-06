@@ -217,17 +217,17 @@ Tags add context to tasks. You'll create a minimal set organized into three cate
 First, create the three category tags:
 
 1. Click **New Tag** button (or press ⌘N)
-2. Create: `Energy`
+2. Create: `Focus Mode`
 3. Create: `Context`
 4. Create: `Special`
 
-### Create Energy Tags (nested under Energy)
+### Create Focus Mode Tags (nested under Focus Mode)
 
-1. Select the **Energy** tag
+1. Select the **Focus Mode** tag
 2. Press ⌘N to create a child tag
 3. Create:
-   - `🔴 Deep` — for tasks requiring focus, no interruptions
-   - `🟢 Low` — for tasks you can do when tired or scattered
+   - `🤔 Deep Work` — for tasks requiring focus, no interruptions
+   - `😎 Shallow` — for tasks you can do when tired or scattered
 
 ### Create Context Tags (nested under Context)
 
@@ -250,9 +250,9 @@ First, create the three category tags:
 ### Result
 
 ```
-🏷️ Energy
-   🔴 Deep
-   🟢 Low
+🏷️ Focus Mode
+   🤔 Deep Work
+   😎 Shallow
 🏷️ Context
    💻 Computer
    📱 Phone
@@ -350,7 +350,7 @@ Perspectives are saved views that filter your tasks. You'll create seven.
    - **Group by**: Project
    - **Sort by**: Project
    - **Filter by availability**: Available
-   - **Filter by tag**: Click "Specific Tags" and select **🟢 Low**
+   - **Filter by tag**: Click "Specific Tags" and select **😎 Shallow**
 
 #### 4.7 Weekly Review
 
@@ -424,7 +424,7 @@ Add to **Self Care** project:
 
 - **Task name**: `Weekly Review`
 - **Flag it**: Yes (click the flag icon)
-- **Tag**: `🔴 Deep`
+- **Tag**: `🤔 Deep Work`
 - **Note**:
   ```
   Weekly review checklist:
@@ -605,7 +605,7 @@ Use this checklist to confirm everything is set up correctly.
 
 ### Tags
 
-- [ ] Energy parent tag with 🔴 Deep and 🟢 Low children
+- [ ] Focus Mode parent tag with 🤔 Deep Work and 😎 Shallow children
 - [ ] Context parent tag with 5 children (Computer, Phone, Home, Errands, With Others)
 - [ ] Special parent tag with 3 children (5min, Transition, Movement)
 
@@ -616,7 +616,7 @@ Use this checklist to confirm everything is set up correctly.
 - [ ] Popcorn perspective shows Popcorn folder tasks
 - [ ] Client Focus shows only Clients folder
 - [ ] Volunteer Focus shows only Volunteer folder
-- [ ] Context Switch shows 🟢 Low energy tasks
+- [ ] Context Switch shows 😎 Shallow tasks
 - [ ] Weekly Review shows all projects and remaining tasks
 
 ### Tasks

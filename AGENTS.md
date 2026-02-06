@@ -20,7 +20,7 @@ This is a **low-friction GTD system** designed for someone who:
 
 2. **Every project is a single-action list.** No sequential projects. Each project is a flat to-do list for that focus area. Tasks are independent and can be done in any order.
 
-3. **Minimal tag system.** Only three categories: Energy (Deep/Low), Context (Computer/Phone/Home/Errands/With Others), Special (5min/Transition/Movement). Default = normal energy, any context.
+3. **Minimal tag system.** Only three categories: Focus Mode (Deep Work/Shallow), Context (Computer/Phone/Home/Errands/With Others), Special (5min/Transition/Movement). Default = any mode, any context.
 
 4. **Movement is integrated, not blocked.** No "exercise 9-10am" blocks. Instead, micro-movements and chores (Popcorn folder) done between tasks.
 
@@ -42,7 +42,7 @@ This is a **low-friction GTD system** designed for someone who:
 - **Quick Wins** — all ⚡ 5min tasks (for overwhelm)
 - **Popcorn** — Movement and Chores tasks from the Popcorn folder
 - **Client Focus** / **Volunteer Focus** — folder-filtered views
-- **Context Switch** — 🟢 Low energy tasks (when stuck on hard thing)
+- **Context Switch** — 😎 Shallow tasks (when stuck on hard thing)
 - **Weekly Review** — all projects, remaining tasks
 
 ### Special Project
@@ -55,7 +55,7 @@ This is a **low-friction GTD system** designed for someone who:
 - New side project → Create single-action list in Side Projects folder, set monthly review interval, add "Check backlog" recurring task only if has GitHub
 - New volunteer role → Create single-action list in Volunteer folder, set biweekly review interval
 - New personal area → Usually add to existing project (Self Care, House & Home, Family & Friends, etc.)
-- New task → Add to appropriate project, consider tags (energy, context, 5min if quick)
+- New task → Add to appropriate project, consider tags (mode, context, 5min if quick)
 
 ### When user asks about project structure
 - Default: Keep it flat (single-action list)
@@ -75,7 +75,7 @@ This is a **low-friction GTD system** designed for someone who:
 - Recurring "check backlog" tasks: Only for projects with external systems (GitHub, Jira)
 
 ### When user asks about tags
-- Energy: Only tag if notably deep focus OR notably low energy. Default = normal.
+- Focus Mode: Only tag if task requires deep focus OR can be done on autopilot. Default = untagged.
 - Context: Only tag if task requires specific context. Default = any context.
 - Special: ⚡ 5min for quick wins, 🏃 Movement for physical, 🔄 Transition for between-task activities
 

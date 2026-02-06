@@ -157,13 +157,13 @@ Example structure:
 
 ## Tags
 
-### Energy
+### Focus Mode
 
 | Tag | When to Use |
 |-----|-------------|
-| 🔴 Deep | Task requires focus, no interruptions |
-| 🟢 Low | Task can be done when tired, scattered, or waiting |
-| *(no tag)* | Normal energy — default |
+| 🤔 Deep Work | Task requires focus, no interruptions |
+| 😎 Shallow | Task can be done when tired, scattered, or waiting |
+| *(no tag)* | Any mode — default |
 
 ### Context
 
@@ -195,7 +195,7 @@ Example structure:
 | **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
 | **Client Focus** | Clients folder only | Dedicated client work time |
 | **Volunteer Focus** | Volunteer folder only | Evening/weekend volunteer time |
-| **Context Switch** | 🟢 Low energy tasks | Stuck on hard thing, need change |
+| **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
 | **Weekly Review** | All projects, remaining tasks | Weekly system maintenance |
 
 ---

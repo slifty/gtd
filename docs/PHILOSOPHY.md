@@ -52,10 +52,10 @@ Tags should reduce friction, not create it. Every tag is a decision: "Should I t
 
 ### The tag system
 
-**Energy (optional):**
-- 🔴 Deep — requires focus, no interruptions
-- 🟢 Low — can do when tired or scattered
-- *No tag = normal energy*
+**Focus Mode (optional):**
+- 🤔 Deep Work — requires focus, no interruptions
+- 😎 Shallow — can do when tired or scattered
+- *No tag = any mode*
 
 **Context (optional):**
 - 💻 Computer, 📱 Phone, 🏠 Home, 🚗 Errands, 👥 With Others
@@ -112,7 +112,7 @@ The ⚡ 5min tag isn't about time management. It's about having a list of "easy 
 
 ## Core Principle: Context Switching is a Tool
 
-Traditional productivity advice: "Don't context switch! Deep work! Focus!"
+Traditional productivity advice: "Don't context switch! Focus! No interruptions!"
 
 Reality for ADHD: Sometimes you're stuck. Banging your head against a task makes it worse.
 

@@ -120,8 +120,8 @@ If you notice patterns in your energy, use them:
 
 | Time | Energy | Best for |
 |------|--------|----------|
-| Morning | Usually higher | 🔴 Deep work, hard tasks |
-| After lunch | Often lower | 🟢 Low energy tasks, admin |
+| Morning | Usually higher | 🤔 Deep Work, hard tasks |
+| After lunch | Often lower | 😎 Shallow tasks, admin |
 | Late afternoon | Variable | Quick wins, meetings |
 | Evening | Depends | Personal, volunteer, creative |
 

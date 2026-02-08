@@ -43,7 +43,7 @@ This is a **low-friction GTD system** designed for someone who:
 - **Popcorn** — Movement and Chores tasks from the Popcorn folder
 - **Client Focus** / **Volunteer Focus** — folder-filtered views
 - **Context Switch** — 😎 Shallow tasks (when stuck on hard thing)
-- **Weekly Review** — all projects, remaining tasks
+- **Daily Review** — 📥 Daily Review tasks (morning routine, check external systems)
 
 ### Special Project
 - **Popcorn** — folder containing Movement and Chores projects, always visible, small repeating tasks that maintain life systems
@@ -77,7 +77,7 @@ This is a **low-friction GTD system** designed for someone who:
 ### When user asks about tags
 - Focus Mode: Only tag if task requires deep focus OR can be done on autopilot. Default = untagged.
 - Context: Only tag if task requires specific context. Default = any context.
-- Special: ⚡ 5min for quick wins, 🏃 Movement for physical, 🔄 Transition for between-task activities
+- Special: ⚡ 5min for quick wins, 🏃 Movement for physical, 🔄 Transition for between-task activities, 📥 Daily Review for recurring backlog checks
 
 ### When user wants to change the system
 - Encourage experimentation, but remind them: simpler is usually better

@@ -246,6 +246,7 @@ First, create the three category tags:
    - `⚡ 5min` — quick wins for overwhelm moments
    - `🔄 Transition` — tasks for between work blocks
    - `🏃 Movement` — physical/exercise micro-tasks
+   - `📥 Daily Review` — recurring tasks for checking external systems (backlogs, email, etc.)
 
 ### Result
 
@@ -263,6 +264,7 @@ First, create the three category tags:
    ⚡ 5min
    🔄 Transition
    🏃 Movement
+   📥 Daily Review
 ```
 
 ---
@@ -371,30 +373,67 @@ Perspectives are saved views that filter your tasks. You'll create seven.
    - **Group actions by**: Project
    - **Sort actions by**: Projects Order
 
-#### 4.7 Weekly Review
+#### 4.7 Daily Review
 
-**Purpose**: System maintenance
+**Purpose**: Morning routine — check external systems and pull in new work
 
-1. Create new perspective named `Weekly Review`
+**Philosophy**: This perspective collects all your recurring "check backlog" tasks in one place. Open it each morning to sync with external systems (GitHub, Jira, email) before starting focused work.
+
+1. Create new perspective named `Daily Review`
 2. Configure **Contents**:
-   - Add `Availability: Remaining` (shows all incomplete items, not just available)
+   - Add `Availability: Available`
+   - Add `Is tagged with any of` → select **📥 Daily Review**
 3. Configure **Structure**:
    - Choose **Organized: Individual Actions**
    - **Group actions by**: Project
    - **Sort actions by**: Projects Order
 
-### Add Perspectives to Sidebar
+> **Note**: For weekly project health checks (clear next action? still relevant?), use OmniFocus's built-in **Review** perspective, not a custom one.
 
-For quick access:
-1. Right-click each perspective in the Perspectives window
-2. Select **Add to Sidebar**
+### Configure Sidebar
 
-Recommended sidebar order:
-- Today
-- Quick Wins
-- Popcorn
-- Client Focus
-- Volunteer Focus
+The sidebar is your main navigation. Configure it to show only what you need, in a logical order.
+
+#### How to reorder perspectives
+
+1. Go to **Perspectives** menu > **Show Perspectives** (⌃⌘P)
+2. Drag perspectives up/down to reorder
+3. The sidebar order matches the Perspectives window order
+
+#### How to show/hide perspectives
+
+1. In the Perspectives window, right-click a perspective
+2. Select **Add to Sidebar** or **Remove from Sidebar**
+
+#### Recommended sidebar order
+
+Show these perspectives in this order:
+
+| Position | Perspective | Type | Purpose |
+|----------|-------------|------|---------|
+| 1 | **Inbox** | Built-in | Capture - process to zero |
+| 2 | **Today** | Custom | Morning planning, daily focus |
+| 3 | **Daily Review** | Custom | Morning routine, check external systems |
+| 4 | **Quick Wins** | Custom | Overwhelm recovery |
+| 5 | **Popcorn** | Custom | Micro-tasks between work |
+| 6 | **Client Focus** | Custom | Dedicated client work |
+| 7 | **Volunteer Focus** | Custom | Volunteer work |
+| 8 | **Context Switch** | Custom | Low-energy alternatives |
+| 9 | **Forecast** | Built-in | Calendar view, upcoming due dates |
+| 10 | **Projects** | Built-in | Navigate project hierarchy |
+| 11 | **Review** | Built-in | Weekly project health checks |
+
+#### Hide these built-in perspectives
+
+These are redundant or not used in this system:
+
+| Perspective | Why Hide |
+|-------------|----------|
+| **Flagged** | Redundant — Today already shows flagged items |
+| **Tags** | Not used for navigation in this system |
+| **Nearby** | Location-based, not part of this workflow |
+
+> **Tip**: You can always access hidden perspectives via **Perspectives** menu if needed.
 
 ---
 
@@ -471,7 +510,11 @@ Only add these for projects with external systems (GitHub, Jira, etc.):
 | Side projects with GitHub | Check [Project] backlog | Yes |
 | Projects without external systems | — | No task needed |
 
-**Note for each**: "Check [system] for new issues. Pull in anything that needs action."
+**For each task:**
+- Tag with: 💻 Computer, ⚡ 5min, 📥 Daily Review
+- Note: "Check [system] for new issues. Pull in anything that needs action."
+
+The 📥 Daily Review tag ensures these tasks appear in your Daily Review perspective each morning.
 
 ---
 
@@ -627,7 +670,7 @@ Use this checklist to confirm everything is set up correctly.
 
 - [ ] Focus Mode parent tag with 🤔 Deep Work and 😎 Shallow children
 - [ ] Context parent tag with 5 children (Computer, Phone, Home, Errands, With Others)
-- [ ] Special parent tag with 3 children (5min, Transition, Movement)
+- [ ] Special parent tag with 4 children (5min, Transition, Movement, Daily Review)
 
 ### Perspectives
 
@@ -637,7 +680,7 @@ Use this checklist to confirm everything is set up correctly.
 - [ ] Client Focus shows only Clients folder
 - [ ] Volunteer Focus shows only Volunteer folder
 - [ ] Context Switch shows 😎 Shallow tasks
-- [ ] Weekly Review shows all projects and remaining tasks
+- [ ] Daily Review shows 📥 Daily Review tagged tasks
 
 ### Tasks
 
@@ -684,7 +727,7 @@ Once setup is complete, here's your daily workflow:
 
 ### "My perspective shows nothing"
 
-- Check that the filter is set to **Available** (or **Remaining** for Weekly Review)
+- Check that the filter is set to **Available**
 - Make sure tasks have the required tags
 - Verify tasks aren't blocked by defer dates
 

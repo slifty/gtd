@@ -32,15 +32,19 @@ Step-by-step procedures for common tasks. Follow these when you need to do somet
 
 1. **Open calendar** — What's blocked today? Any meetings or appointments?
 
-2. **Open Today perspective** — Scan what's due, flagged, and planned for today
+2. **Open Daily Review perspective** — Check external systems (backlogs, GitHub, email)
+   - Complete the 📥 Daily Review tasks to pull in new work
+   - Keep it quick — this is triage, not deep work
 
-3. **Flag 3-5 tasks** — Be realistic. Ask: "If I only did these, would today be a success?"
+3. **Open Today perspective** — Scan what's due, flagged, and planned for today
+
+4. **Flag 3-5 tasks** — Be realistic. Ask: "If I only did these, would today be a success?"
    - Consider energy: Is today a Deep Work day or a Shallow day?
    - Consider calendar: How much unblocked time do you have?
 
-4. **Glance at Popcorn** — Prime yourself. Remember movement and chores exist.
+5. **Glance at Popcorn** — Prime yourself. Remember movement and chores exist.
 
-5. **Start working** — Pick a flagged task and begin
+6. **Start working** — Pick a flagged task and begin
 
 ### If inbox has items
 
@@ -79,9 +83,9 @@ Process them quickly (2-min rule: do it, defer it, or delete it). Don't let inbo
    - Process everything that accumulated
    - Be ruthless: if it's not actionable, delete it
 
-2. **Open Weekly Review perspective**
+2. **Open OmniFocus's built-in Review perspective** (Perspectives → Review, or ⌘6)
 
-3. **For each project, ask:**
+3. **For each project due for review, ask:**
    - Is there a clear next action? (If not, add one)
    - Is this project still relevant? (If not, put on hold or drop)
    - Any deadlines approaching? (If yes, flag or add due dates)
@@ -157,8 +161,8 @@ The goal is momentum, not perfection.
 3. **Add external system sync task** (if applicable)
    - Only if client has GitHub/Jira/external tracker
    - Add task: `Check [Client] backlog`
-   - Set repeat: Weekly on Monday
-   - Tag: 💻 Computer, ⚡ 5min
+   - Set repeat: Weekly on Monday (or daily if high-activity client)
+   - Tag: 💻 Computer, ⚡ 5min, 📥 Daily Review
    - Note: "Check [GitHub/Jira] for new issues. Pull in anything that needs action."
 
 4. **Add any known tasks**
@@ -257,7 +261,7 @@ Side projects have scope and deliverables, but less urgency than client work.
    - Only if the project has a GitHub repo or external tracker
    - Add task: `Check [Project] backlog`
    - Set repeat: Weekly or biweekly
-   - Tag: 💻 Computer, ⚡ 5min
+   - Tag: 💻 Computer, ⚡ 5min, 📥 Daily Review
    - Note: "Check GitHub for new issues. Pull in anything to work on."
 
    **If the project lives only in your head/OmniFocus:** Skip this step. The built-in Review is enough.

@@ -11,9 +11,10 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
 **Purpose:** Set yourself up for a successful day
 
 1. Check calendar — What's blocked?
-2. Open Today perspective — What's due or planned?
-3. Flag 3-5 tasks — Realistic daily targets
-4. Glance at Popcorn — Prime yourself for movement and chores
+2. Open Daily Review perspective — Check external systems (backlogs, email, GitHub)
+3. Open Today perspective — What's due or planned?
+4. Flag 3-5 tasks — Realistic daily targets
+5. Glance at Popcorn — Prime yourself for movement and chores
 
 **Key question:** "If I only did these flagged tasks, would today be a success?"
 

@@ -183,6 +183,7 @@ Example structure:
 | ⚡ 5min | Quick win, good for overwhelm moments |
 | 🔄 Transition | Good for between work blocks |
 | 🏃 Movement | Physical activity, exercise |
+| 📥 Daily Review | Recurring tasks for checking external systems |
 
 ---
 
@@ -196,7 +197,7 @@ Example structure:
 | **Client Focus** | Clients folder, grouped by project | Dedicated client work time |
 | **Volunteer Focus** | Volunteer folder, grouped by project | Evening/weekend volunteer time |
 | **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
-| **Weekly Review** | All projects, remaining tasks | Weekly system maintenance |
+| **Daily Review** | 📥 Daily Review tasks | Morning routine, check external systems |
 
 ---
 

@@ -38,7 +38,7 @@ This is a **low-friction GTD system** designed for someone who:
 - **Business** — bookkeeping and company admin
 
 ### Key Perspectives
-- **Today** — due + flagged + deferred today
+- **Today** — due soon + flagged + planned today (intentional daily commitments)
 - **Quick Wins** — all ⚡ 5min tasks (for overwhelm)
 - **Popcorn** — Movement and Chores tasks from the Popcorn folder
 - **Client Focus** / **Volunteer Focus** — folder-filtered views

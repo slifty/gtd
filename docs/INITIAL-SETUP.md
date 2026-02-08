@@ -278,90 +278,110 @@ Perspectives are saved views that filter your tasks. You'll create seven.
 
 ### Create and Configure Each Perspective
 
+> **Note**: OmniFocus 4 organizes perspective settings into three sections:
+> - **Contents** — Filter rules that determine which items appear
+> - **Structure** — How items are grouped and sorted
+> - **Layout** — Display options (can usually leave as default)
+>
+> Filter rules use hierarchical logic: **All of the following** (AND), **Any of the following** (OR), or **None of the following** (NOT).
+
 #### 4.1 Today
 
-**Purpose**: Morning planning and daily task management
+**Purpose**: Morning planning and daily focus — shows your intentional commitments for today
+
+**Philosophy**: Today is a clean slate. Past-planned items don't roll over automatically; you actively decide what belongs in today during morning planning.
 
 1. Create new perspective named `Today`
-2. Click **View Options** (eye icon in toolbar)
-3. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Ungrouped
-   - **Sort by**: Due
-   - **Filter by availability**: Available
-   - **Filter**: Check both **Due Soon** and **Flagged**
-   - **Has a defer date of**: Today or Earlier
+2. Configure **Contents** (filter rules):
+   - Add `Availability: Available`
+   - Add **Any of the following**, then nest inside it:
+     - `Status: Due Soon or Flagged`
+     - `Has date in range` → **Planned Date** → **Today**
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Ungrouped
+   - **Sort actions by**: Due Date
 
 #### 4.2 Quick Wins
 
 **Purpose**: Easy tasks when you're overwhelmed
 
 1. Create new perspective named `Quick Wins`
-2. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Project
-   - **Sort by**: Project
-   - **Filter by availability**: Available
-   - **Filter by tag**: Click "Specific Tags" and select **⚡ 5min**
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is tagged with any of` → select **⚡ 5min**
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Projects Order
 
 #### 4.3 Popcorn
 
 **Purpose**: Quick maintenance tasks between work blocks (movement + chores)
 
 1. Create new perspective named `Popcorn`
-2. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Project
-   - **Sort by**: Random (or Added)
-   - **Filter by availability**: Available
-   - **Filter by project**: Click "Specific Folders or Projects" and select **Popcorn** folder
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is contained within project or folder` → select **Popcorn** folder
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Added Date (or use Flexible structure for random feel)
 
 #### 4.4 Client Focus
 
 **Purpose**: Dedicated client work time
 
+**Philosophy**: Shows all client tasks at once, grouped by project. Pick based on priority, deadlines, or energy. To focus on a single client, use OmniFocus's Focus feature (View → Focus on [Project]) rather than creating separate perspectives per client.
+
 1. Create new perspective named `Client Focus`
-2. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Project
-   - **Sort by**: Due
-   - **Filter by availability**: Available
-   - **Filter by project**: Click "Specific Folders or Projects" and select **Clients** folder
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is contained within project or folder` → select **Clients** folder
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Due Date
 
 #### 4.5 Volunteer Focus
 
 **Purpose**: Evening and weekend volunteer work
 
+**Philosophy**: Same approach as Client Focus — shows all volunteer tasks grouped by project. Use OmniFocus's Focus feature to narrow to a single role when needed.
+
 1. Create new perspective named `Volunteer Focus`
-2. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Project
-   - **Sort by**: Due
-   - **Filter by availability**: Available
-   - **Filter by project**: Click "Specific Folders or Projects" and select **Volunteer** folder
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is contained within project or folder` → select **Volunteer** folder
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Due Date
 
 #### 4.6 Context Switch
 
 **Purpose**: Low-energy alternatives when stuck
 
 1. Create new perspective named `Context Switch`
-2. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Project
-   - **Sort by**: Project
-   - **Filter by availability**: Available
-   - **Filter by tag**: Click "Specific Tags" and select **😎 Shallow**
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is tagged with any of` → select **😎 Shallow**
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Projects Order
 
 #### 4.7 Weekly Review
 
 **Purpose**: System maintenance
 
 1. Create new perspective named `Weekly Review`
-2. Configure:
-   - **Presentation**: Custom
-   - **Group by**: Project
-   - **Sort by**: Project
-   - **Filter by availability**: **Remaining** (not Available—this shows everything)
+2. Configure **Contents**:
+   - Add `Availability: Remaining` (shows all incomplete items, not just available)
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Projects Order
 
 ### Add Perspectives to Sidebar
 
@@ -611,7 +631,7 @@ Use this checklist to confirm everything is set up correctly.
 
 ### Perspectives
 
-- [ ] Today perspective shows due/flagged/deferred-today tasks
+- [ ] Today perspective shows due/flagged/planned-today/deferred-today tasks
 - [ ] Quick Wins perspective shows only ⚡ 5min tagged tasks
 - [ ] Popcorn perspective shows Popcorn folder tasks
 - [ ] Client Focus shows only Clients folder

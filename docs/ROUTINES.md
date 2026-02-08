@@ -11,7 +11,7 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
 **Purpose:** Set yourself up for a successful day
 
 1. Check calendar — What's blocked?
-2. Open Today perspective — What's due?
+2. Open Today perspective — What's due or planned?
 3. Flag 3-5 tasks — Realistic daily targets
 4. Glance at Popcorn — Prime yourself for movement and chores
 

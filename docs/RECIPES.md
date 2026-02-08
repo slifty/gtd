@@ -32,7 +32,7 @@ Step-by-step procedures for common tasks. Follow these when you need to do somet
 
 1. **Open calendar** — What's blocked today? Any meetings or appointments?
 
-2. **Open Today perspective** — Scan what's due and flagged
+2. **Open Today perspective** — Scan what's due, flagged, and planned for today
 
 3. **Flag 3-5 tasks** — Be realistic. Ask: "If I only did these, would today be a success?"
    - Consider energy: Is today a Deep Work day or a Shallow day?

@@ -190,11 +190,11 @@ Example structure:
 
 | Perspective | Shows | Use When |
 |-------------|-------|----------|
-| **Today** | Due + Flagged + Deferred today | Morning planning, throughout day |
+| **Today** | Due Soon + Flagged + Planned today | Morning planning, daily focus |
 | **Quick Wins** | All ⚡ 5min tasks | Overwhelmed, need momentum |
 | **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
-| **Client Focus** | Clients folder only | Dedicated client work time |
-| **Volunteer Focus** | Volunteer folder only | Evening/weekend volunteer time |
+| **Client Focus** | Clients folder, grouped by project | Dedicated client work time |
+| **Volunteer Focus** | Volunteer folder, grouped by project | Evening/weekend volunteer time |
 | **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
 | **Weekly Review** | All projects, remaining tasks | Weekly system maintenance |
 
@@ -207,6 +207,17 @@ Example structure:
 | Work | Clients + Side Projects + Popcorn | During work hours, building things |
 | Life | Volunteer + Personal + Business + Popcorn | Evenings, weekends, life maintenance |
 | *(unfocused)* | Everything | Weekly reviews |
+
+### Narrowing to a Single Project
+
+The folder-based perspectives (Client Focus, Volunteer Focus) show all projects in that folder, grouped by project. To temporarily narrow to a **single project**:
+
+1. Select the project in the sidebar
+2. **View → Focus on [Project]** (or right-click → Focus)
+3. All perspectives now show only that project's tasks
+4. **View → Unfocus** when done
+
+This avoids needing separate perspectives for each client or volunteer role.
 
 ---
 

@@ -194,8 +194,10 @@ Example structure:
 | **Today** | Due Soon + Flagged + Planned today | Morning planning, daily focus |
 | **Quick Wins** | All ⚡ 5min tasks | Overwhelmed, need momentum |
 | **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
-| **Client Focus** | Clients folder, grouped by project | Dedicated client work time |
-| **Volunteer Focus** | Volunteer folder, grouped by project | Evening/weekend volunteer time |
+| **Work Focus** | Clients + Business folders | Professional obligations |
+| **Volunteer Focus** | Volunteer folder | Community commitments |
+| **Side Quests** | Side Projects folder | Passion projects |
+| **Personal Focus** | Personal folder | Life maintenance |
 | **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
 | **Daily Review** | 📥 Daily Review tasks | Morning routine, check external systems |
 
@@ -203,15 +205,20 @@ Example structure:
 
 ## Focus Modes
 
-| Focus | Shows | Use When |
-|-------|-------|----------|
-| Work | Clients + Side Projects + Popcorn | During work hours, building things |
-| Life | Volunteer + Personal + Business + Popcorn | Evenings, weekends, life maintenance |
+OmniFocus's built-in Focus feature temporarily hides folders app-wide. These are broader than perspectives.
+
+> **Note**: Focus modes are named "Mode" to distinguish from perspectives (e.g., "Work Mode" vs "Work Focus").
+
+| Focus Mode | Shows | Use When |
+|------------|-------|----------|
+| Work Mode | Clients + Business + Popcorn | During work hours, professional obligations |
+| Projects Mode | Volunteer + Side Projects + Popcorn | Dedicated project time (community + passion) |
+| Personal Mode | Personal + Popcorn | Personal life maintenance |
 | *(unfocused)* | Everything | Weekly reviews |
 
 ### Narrowing to a Single Project
 
-The folder-based perspectives (Client Focus, Volunteer Focus) show all projects in that folder, grouped by project. To temporarily narrow to a **single project**:
+The folder-based perspectives (Work Focus, Volunteer Focus, Side Quests, Personal Focus) show all projects in their folders, grouped by project. To temporarily narrow to a **single project**:
 
 1. Select the project in the sidebar
 2. **View → Focus on [Project]** (or right-click → Focus)

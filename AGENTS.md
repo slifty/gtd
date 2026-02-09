@@ -41,7 +41,10 @@ This is a **low-friction GTD system** designed for someone who:
 - **Today** — due soon + flagged + planned today (intentional daily commitments)
 - **Quick Wins** — all ⚡ 5min tasks (for overwhelm)
 - **Popcorn** — Movement and Chores tasks from the Popcorn folder
-- **Client Focus** / **Volunteer Focus** — folder-filtered views
+- **Work Focus** — Clients + Business (professional obligations)
+- **Volunteer Focus** — Volunteer (community commitments)
+- **Side Quests** — Side Projects (passion projects)
+- **Personal Focus** — Personal (life maintenance)
 - **Context Switch** — 😎 Shallow tasks (when stuck on hard thing)
 - **Daily Review** — 📥 Daily Review tasks (morning routine, check external systems)
 

@@ -271,7 +271,7 @@ First, create the three category tags:
 
 ## 4. Create Perspectives
 
-Perspectives are saved views that filter your tasks. You'll create seven.
+Perspectives are saved views that filter your tasks. You'll create nine.
 
 ### Access Perspective Management
 
@@ -330,16 +330,18 @@ Perspectives are saved views that filter your tasks. You'll create seven.
    - **Group actions by**: Project
    - **Sort actions by**: Added Date (or use Flexible structure for random feel)
 
-#### 4.4 Client Focus
+#### 4.4 Work Focus
 
-**Purpose**: Dedicated client work time
+**Purpose**: Professional obligations — client work and business admin
 
-**Philosophy**: Shows all client tasks at once, grouped by project. Pick based on priority, deadlines, or energy. To focus on a single client, use OmniFocus's Focus feature (View → Focus on [Project]) rather than creating separate perspectives per client.
+**Philosophy**: Shows all paid/professional tasks at once, grouped by project. Pick based on priority, deadlines, or energy. To focus on a single client, use OmniFocus's Focus feature (View → Focus on [Project]) rather than creating separate perspectives per client.
 
-1. Create new perspective named `Client Focus`
+1. Create new perspective named `Work Focus`
 2. Configure **Contents**:
    - Add `Availability: Available`
-   - Add `Is contained within project or folder` → select **Clients** folder
+   - Add **Any of the following**, then nest inside it:
+     - `Is contained within project or folder` → select **Clients** folder
+     - `Is contained within project or folder` → select **Business** folder
 3. Configure **Structure**:
    - Choose **Organized: Individual Actions**
    - **Group actions by**: Project
@@ -347,9 +349,9 @@ Perspectives are saved views that filter your tasks. You'll create seven.
 
 #### 4.5 Volunteer Focus
 
-**Purpose**: Evening and weekend volunteer work
+**Purpose**: Community commitments — roles with external accountability
 
-**Philosophy**: Same approach as Client Focus — shows all volunteer tasks grouped by project. Use OmniFocus's Focus feature to narrow to a single role when needed.
+**Philosophy**: Shows all volunteer tasks grouped by project. These have external accountability (boards, organizations, people depending on you). Use OmniFocus's Focus feature to narrow to a single role when needed.
 
 1. Create new perspective named `Volunteer Focus`
 2. Configure **Contents**:
@@ -360,7 +362,37 @@ Perspectives are saved views that filter your tasks. You'll create seven.
    - **Group actions by**: Project
    - **Sort actions by**: Due Date
 
-#### 4.6 Context Switch
+#### 4.6 Side Quests
+
+**Purpose**: Passion projects — purely optional adventures
+
+**Philosophy**: Shows all side project tasks grouped by project. These are things you do because you want to, with no external accountability. Lower priority than volunteer commitments.
+
+1. Create new perspective named `Side Quests`
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is contained within project or folder` → select **Side Projects** folder
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Due Date
+
+#### 4.7 Personal Focus
+
+**Purpose**: Life maintenance — health, home, family, hobbies
+
+**Philosophy**: Shows all personal tasks grouped by project. Open this when you have personal time and want to browse available tasks to flag or plan for today.
+
+1. Create new perspective named `Personal Focus`
+2. Configure **Contents**:
+   - Add `Availability: Available`
+   - Add `Is contained within project or folder` → select **Personal** folder
+3. Configure **Structure**:
+   - Choose **Organized: Individual Actions**
+   - **Group actions by**: Project
+   - **Sort actions by**: Due Date
+
+#### 4.8 Context Switch
 
 **Purpose**: Low-energy alternatives when stuck
 
@@ -373,7 +405,7 @@ Perspectives are saved views that filter your tasks. You'll create seven.
    - **Group actions by**: Project
    - **Sort actions by**: Projects Order
 
-#### 4.7 Daily Review
+#### 4.9 Daily Review
 
 **Purpose**: Morning routine — check external systems and pull in new work
 
@@ -416,12 +448,14 @@ Show these perspectives in this order:
 | 3 | **Daily Review** | Custom | Morning routine, check external systems |
 | 4 | **Quick Wins** | Custom | Overwhelm recovery |
 | 5 | **Popcorn** | Custom | Micro-tasks between work |
-| 6 | **Client Focus** | Custom | Dedicated client work |
-| 7 | **Volunteer Focus** | Custom | Volunteer work |
-| 8 | **Context Switch** | Custom | Low-energy alternatives |
-| 9 | **Forecast** | Built-in | Calendar view, upcoming due dates |
-| 10 | **Projects** | Built-in | Navigate project hierarchy |
-| 11 | **Review** | Built-in | Weekly project health checks |
+| 6 | **Work Focus** | Custom | Professional obligations (Clients + Business) |
+| 7 | **Volunteer Focus** | Custom | Community commitments (Volunteer) |
+| 8 | **Side Quests** | Custom | Passion projects (Side Projects) |
+| 9 | **Personal Focus** | Custom | Life maintenance (Personal) |
+| 10 | **Context Switch** | Custom | Low-energy alternatives |
+| 11 | **Forecast** | Built-in | Calendar view, upcoming due dates |
+| 12 | **Projects** | Built-in | Navigate project hierarchy |
+| 13 | **Review** | Built-in | Weekly project health checks |
 
 #### Hide these built-in perspectives
 
@@ -597,28 +631,37 @@ For each client review task:
 
 ## 8. Configure Focus Modes (Optional)
 
-Focus modes temporarily hide folders/projects to reduce visual noise.
+Focus modes use OmniFocus's built-in Focus feature to temporarily hide folders app-wide. This is broader than perspectives — it affects the entire app, not just one view.
 
-### Create Work Focus
+> **Note**: Focus modes are named differently from perspectives to avoid confusion. "Work Mode" is the app-wide focus; "Work Focus" is the perspective.
+
+### Create Work Mode
 
 1. Go to **View** menu > **Focus**
 2. In the dialog, check only:
    - **Clients** folder
-   - **Side Projects** folder
+   - **Business** folder
    - **Popcorn** folder
 3. Click **Focus**
 4. To save: **Perspectives** menu > **Save Focus as Perspective**
-5. Name it `Work Focus`
+5. Name it `Work Mode`
 
-### Create Life Focus
+### Create Projects Mode
 
 1. Go to **View** menu > **Focus**
 2. Check only:
    - **Volunteer** folder
-   - **Personal** folder
-   - **Business** folder
+   - **Side Projects** folder
    - **Popcorn** folder
-3. Save as `Life Focus`
+3. Save as `Projects Mode`
+
+### Create Personal Mode
+
+1. Go to **View** menu > **Focus**
+2. Check only:
+   - **Personal** folder
+   - **Popcorn** folder
+3. Save as `Personal Mode`
 
 ### Switching Focus
 
@@ -674,11 +717,13 @@ Use this checklist to confirm everything is set up correctly.
 
 ### Perspectives
 
-- [ ] Today perspective shows due/flagged/planned-today/deferred-today tasks
+- [ ] Today perspective shows due soon/flagged/planned-today tasks
 - [ ] Quick Wins perspective shows only ⚡ 5min tagged tasks
 - [ ] Popcorn perspective shows Popcorn folder tasks
-- [ ] Client Focus shows only Clients folder
-- [ ] Volunteer Focus shows only Volunteer folder
+- [ ] Work Focus shows Clients + Business folders
+- [ ] Volunteer Focus shows Volunteer folder
+- [ ] Side Quests shows Side Projects folder
+- [ ] Personal Focus shows Personal folder
 - [ ] Context Switch shows 😎 Shallow tasks
 - [ ] Daily Review shows 📥 Daily Review tagged tasks
 

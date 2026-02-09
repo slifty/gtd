@@ -58,6 +58,19 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
 
 See [RECIPES.md → Weekly Review](RECIPES.md#weekly-review) for detailed steps.
 
+### Alternative: Popcorn-Style Reviews
+
+If dedicated review blocks get deprioritized (Sunday nights with kids, Monday mornings with meetings), you can distribute project reviews throughout the week using the Popcorn approach:
+
+1. Use OmniFocus's built-in Review feature (set review intervals per project)
+2. Add "Review a project" to Popcorn → System (repeating, defer 1 day)
+3. When you pick it, open the Review perspective and review 1-3 projects
+4. If nothing's due, glance at Review perspective to confirm and move on
+
+This treats project reviews as a menu option rather than a calendar mandate. The *system* tracks what needs reviewing; you just chip away when you have a few minutes.
+
+**Note:** Some weekly review tasks (inbox zero, calendar scan, big-picture check) still benefit from a dedicated block. This approach primarily distributes the project-by-project review work.
+
 ---
 
 ## Making Routines Stick

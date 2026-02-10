@@ -135,6 +135,12 @@ This folder contains small repeating tasks that maintain life systems — "XP" t
    - Name it `Chores`
    - Open Inspector (⌥⌘I) and set **Project Type** to **Single Actions**
 
+4. Inside Popcorn, create the **Metaphysical** project:
+   - Select the Popcorn folder
+   - Press ⌘N to create a new project
+   - Name it `Metaphysical`
+   - Open Inspector (⌥⌘I) and set **Project Type** to **Single Actions**
+
 ### Result
 
 All projects should be **single-action lists** (not sequential):
@@ -157,6 +163,7 @@ All projects should be **single-action lists** (not sequential):
 📁 Popcorn
    📋 Movement ⟲
    📋 Chores ⟲
+   📋 Metaphysical ⟲
 📥 Inbox
 ```
 
@@ -517,6 +524,17 @@ Add these tasks to the **Chores** project (inside Popcorn folder). Tag with `⚡
 
 **Customize this list** based on what you actually need reminders for. If you never forget something, don't track it.
 
+### Metaphysical Tasks
+
+Add these tasks to the **Metaphysical** project (inside Popcorn folder).
+
+| Task | Repeat Interval | Note |
+|------|-----------------|------|
+| Log mood | Defer 4 hours | Quick check-in: how are you feeling? |
+| Review a project | Defer 1 day | Open Review perspective, review 1-3 projects |
+
+**Customize this list** with other self-awareness or system maintenance habits that work for you.
+
 ### Weekly Review Task
 
 Add to **Self Care** project:
@@ -712,7 +730,7 @@ Use this checklist to confirm everything is set up correctly.
 - [ ] Volunteer projects exist inside Volunteer folder (one per role)
 - [ ] Personal projects exist inside Personal folder
 - [ ] Business projects exist inside Business folder (one per entity)
-- [ ] Popcorn folder exists with Movement and Chores projects inside
+- [ ] Popcorn folder exists with Movement, Chores, and Metaphysical projects inside
 - [ ] All projects are set to single-action list type
 
 ### Tags
@@ -737,6 +755,7 @@ Use this checklist to confirm everything is set up correctly.
 
 - [ ] Movement tasks exist with all three special tags (🏃 Movement, ⚡ 5min, 🔄 Transition)
 - [ ] Chores tasks exist with appropriate repeat intervals
+- [ ] Metaphysical tasks exist (mood logging, project review)
 - [ ] All Popcorn tasks repeat after completion
 - [ ] Weekly Review task is flagged and repeats weekly
 - [ ] Each client has a backlog review task that repeats weekly

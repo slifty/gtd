@@ -131,7 +131,7 @@ Small repeating tasks that maintain life systems. These are "XP" — quick wins 
 |---------|---------|
 | Movement | Micro-exercises between tasks |
 | Chores | Household maintenance rhythms |
-| System | GTD system maintenance |
+| Metaphysical | Mind maintenance — mood logging, system reviews |
 
 Example structure:
 ```
@@ -146,8 +146,9 @@ Example structure:
       ◯ Run dishwasher [repeat: defer 1 day]
       ◯ Take out trash [repeat: weekly]
       ◯ Wipe kitchen counters [repeat: defer 2 days]
-   📋 System
+   📋 Metaphysical
       ◯ Review a project [repeat: defer 1 day]
+      ◯ Log mood [repeat: defer 4 hours]
 ```
 
 **Key characteristics:**

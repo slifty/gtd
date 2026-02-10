@@ -64,7 +64,7 @@ See [RECIPES.md → Weekly Review](RECIPES.md#weekly-review) for detailed steps.
 If dedicated review blocks get deprioritized (Sunday nights with kids, Monday mornings with meetings), you can distribute project reviews throughout the week using the Popcorn approach:
 
 1. Use OmniFocus's built-in Review feature (set review intervals per project)
-2. Add "Review a project" to Popcorn → System (repeating, defer 1 day)
+2. Add "Review a project" to Popcorn → Metaphysical (repeating, defer 1 day)
 3. When you pick it, open the Review perspective and review 1-3 projects
 4. If nothing's due, glance at Review perspective to confirm and move on
 

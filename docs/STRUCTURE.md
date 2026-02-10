@@ -194,15 +194,17 @@ Example structure:
 
 | Perspective | Shows | Use When |
 |-------------|-------|----------|
-| **Today** | Due Soon + Flagged + Planned today | Morning planning, daily focus |
-| **Quick Wins** | All ⚡ 5min tasks | Overwhelmed, need momentum |
-| **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
-| **Work Focus** | Clients + Business folders | Professional obligations |
-| **Volunteer Focus** | Volunteer folder | Community commitments |
-| **Side Quests** | Side Projects folder | Passion projects |
-| **Personal Focus** | Personal folder | Life maintenance |
-| **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
-| **Daily Review** | 📥 Daily Review tasks | Morning routine, check external systems |
+| 🟠 **Today** | Due Soon + Flagged + Planned today | Morning planning, daily focus |
+| 🟠 **Daily Review** | 📥 Daily Review tasks | Morning routine, check external systems |
+| 🩷 **Quick Wins** | All ⚡ 5min tasks | Overwhelmed, need momentum |
+| 🩷 **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
+| 🟢 **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
+| 🟣 **Work** | Clients + Business folders | Professional obligations |
+| 🟣 **Volunteer** | Volunteer folder | Community commitments |
+| 🟣 **Personal** | Personal folder | Life maintenance |
+| 🟣 **Side Quests** | Side Projects folder | Passion projects |
+
+**Color taxonomy:** 🟠 Daily workflow · 🟢 Popcorn · 🟣 Life areas · 🩷 Recovery
 
 ---
 
@@ -210,7 +212,7 @@ Example structure:
 
 OmniFocus's built-in Focus feature temporarily hides folders app-wide. These are broader than perspectives.
 
-> **Note**: Focus modes are named "Mode" to distinguish from perspectives (e.g., "Work Mode" vs "Work Focus").
+> **Note**: Focus modes are named "Mode" to distinguish from OmniFocus's built-in Focus feature (e.g., "Work Mode" is a saved focus, not a perspective).
 
 | Focus Mode | Shows | Use When |
 |------------|-------|----------|
@@ -221,7 +223,7 @@ OmniFocus's built-in Focus feature temporarily hides folders app-wide. These are
 
 ### Narrowing to a Single Project
 
-The folder-based perspectives (Work Focus, Volunteer Focus, Side Quests, Personal Focus) show all projects in their folders, grouped by project. To temporarily narrow to a **single project**:
+The folder-based perspectives (Work, Volunteer, Side Quests, Personal) show all projects in their folders, grouped by project. To temporarily narrow to a **single project**:
 
 1. Select the project in the sidebar
 2. **View → Focus on [Project]** (or right-click → Focus)

@@ -124,7 +124,7 @@ You know you should do reviews. You don't do them consistently. This is normal.
 Calendar tells you **when**.
 OmniFocus tells you **what**.
 
-During a calendar block, open the relevant perspective (Work Focus, Volunteer Focus, Side Quests, Personal Focus) and work from there.
+During a calendar block, open the relevant perspective (Work, Volunteer, Side Quests, Personal) and work from there.
 
 ---
 

@@ -96,31 +96,30 @@ Reality for ADHD: That block gets skipped when something urgent comes up. Then g
 
 ---
 
-## Core Principle: Quick Wins Build Momentum
+## Core Principle: Quick Wins Enable Low-Commitment Progress
 
-When overwhelmed, the hardest part is starting. The task itself doesn't matter — what matters is **doing something**.
+Sometimes you have 10 minutes between meetings. Sometimes you're tired but want to feel productive. Sometimes you just want to knock something out without heavy mental investment.
 
-**The Quick Wins perspective exists for this moment:**
+**The Quick Wins perspective exists for these moments:**
 1. Open it
-2. Pick literally anything
+2. Pick anything that fits your time/energy
 3. Do it
-4. Notice: you're moving now
+4. Move on
 
-The ⚡ 5min tag isn't about time management. It's about having a list of "easy starts" for when your brain is stuck.
+The ⚡ 5min tag identifies tasks that don't require context-loading or deep focus. They're self-contained wins you can grab anytime.
 
 ---
 
-## Core Principle: Context Switching is a Tool
+## Core Principle: Easy Mode is for Overwhelm Recovery
 
-Traditional productivity advice: "Don't context switch! Focus! No interruptions!"
+When you're paralyzed — too many things, can't start, brain is frozen — you don't need a 5-minute task. You need the **easiest possible thing**.
 
-Reality for ADHD: Sometimes you're stuck. Banging your head against a task makes it worse.
+**The Easy Mode perspective exists for these moments:**
+- Shows 😎 Shallow tasks that require minimal cognitive effort
+- No deep thinking, no context-loading, no decisions
+- Just pick something and do it on autopilot
 
-**This system treats context switching as a legitimate strategy:**
-- Context Switch perspective: low-energy tasks from different areas
-- When stuck on hard thing → do easy thing in different domain → return refreshed
-
-This isn't procrastination. It's strategic disengagement that keeps you productive.
+This isn't about being productive. It's about getting unstuck. Once you're moving, momentum builds naturally.
 
 ---
 
@@ -132,7 +131,7 @@ If missing one weekly review breaks everything, the system is too fragile.
 - Inbox will pile up — that's what weekly review is for
 - You'll skip movement snacks — they repeat, they'll be back
 - You'll miss a client backlog review — you'll catch it next week
-- You'll have bad days — Quick Wins perspective is waiting
+- You'll have bad days — Easy Mode perspective is waiting
 
 The goal isn't perfection. The goal is **easy recovery**.
 

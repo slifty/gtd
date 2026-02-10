@@ -4,51 +4,56 @@ Protocols for overwhelm, paralysis, and those moments when you can't start.
 
 ---
 
-## The Quick Wins Ladder
+## The Easy Mode Protocol
 
 **When:** You're overwhelmed and can't start anything
 
 ### Steps
 
-1. Open **Quick Wins** perspective
+1. Open **Easy Mode** perspective (😎 Shallow tasks)
 2. Pick literally anything — don't think, just pick
-3. Do it
+3. Do it on autopilot
 4. Notice: you're moving now
 5. Pick another, or return to regular work
 
 ### Why it works
 
-Starting is the hardest part. The task doesn't matter — momentum does. Once you're moving, you stay moving.
+When overwhelmed, the problem isn't time — it's cognitive load. Easy Mode shows tasks that require minimal mental effort. You're not trying to be productive; you're trying to get unstuck.
 
-### If Quick Wins is empty
+### If Easy Mode is empty
 
-Add some tasks with ⚡ 5min tag:
-- Send one email
-- File one document
-- Review one item
-- Make one decision
+Tag some existing tasks with 😎 Shallow:
+- Admin tasks that don't require thinking
+- Routine tasks you've done many times
+- Low-stakes tasks with obvious next steps
 
 ---
 
-## The Context Switch Protocol
+## The Quick Wins Protocol
 
-**When:** You're stuck on a specific hard task
+**When:** You have limited time or want low-commitment progress
 
 ### Steps
 
-1. Recognize: "I'm stuck on this."
-2. Open **Context Switch** perspective (😎 Shallow tasks)
-3. Pick something completely different
-4. Do it
-5. Return to the hard task later (or tomorrow)
+1. Open **Quick Wins** perspective (⚡ 5min tasks)
+2. Pick something that fits your available time
+3. Do it
+4. Repeat or move on
 
 ### Why it works
 
-Sometimes your brain needs a break from a specific problem. Switching to a different type of work lets the stuck problem process in the background while you stay productive.
+Quick Wins are self-contained. No context-loading, no "where was I?" — just grab one, complete it, done. Perfect for:
+- 10 minutes between meetings
+- End of day when you're tired but want to feel productive
+- Building momentum before tackling something bigger
 
-### This is not procrastination
+### If Quick Wins is empty
 
-Procrastination is avoiding work by doing non-work. Context switching is doing *different* work. You're still moving forward, just on a different track.
+Tag some existing tasks with ⚡ 5min:
+- Send one email
+- File one document
+- Review one item
+- Make one quick decision
 
 ---
 
@@ -201,8 +206,8 @@ Post this somewhere visible:
 ```
 STUCK? TRY THIS:
 
-1. Quick Wins → Do anything small
-2. Context Switch → Do something different
+1. Easy Mode → Overwhelmed? Do the easiest thing
+2. Quick Wins → Short on time? Do something small
 3. Popcorn → Move your body, do a quick chore
 4. Just One Thing → Paper, one task, do it
 5. Body Double → Work with someone nearby

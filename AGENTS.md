@@ -40,8 +40,8 @@ This is a **low-friction GTD system** designed for someone who:
 ### Key Perspectives
 - **Today** — due soon + flagged + planned today (intentional daily commitments)
 - **Daily Review** — 📥 Daily Review tasks (morning routine, check external systems)
-- **Quick Wins** — all ⚡ 5min tasks (for overwhelm)
-- **Context Switch** — 😎 Shallow tasks (when stuck on hard thing)
+- **Quick Wins** — ⚡ 5min tasks (low-commitment productivity)
+- **Easy Mode** — 😎 Shallow tasks (overwhelm recovery)
 - **Popcorn** — Movement and Chores tasks from the Popcorn folder
 - **Work** — Clients + Business (professional obligations)
 - **Volunteer** — Volunteer (community commitments)
@@ -67,9 +67,9 @@ This is a **low-friction GTD system** designed for someone who:
 
 ### When user seems overwhelmed
 - Point them to WHEN-STUCK.md
-- Suggest Quick Wins perspective
+- Suggest Easy Mode perspective (overwhelm recovery)
 - Suggest Popcorn perspective
-- Remind them: pick ANY task, momentum builds
+- Remind them: pick the EASIEST task, momentum builds
 
 ### When user asks about reviews
 - Daily: See ROUTINES.md — morning planning (10-15 min), shutdown (5 min)

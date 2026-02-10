@@ -22,7 +22,8 @@ Your daily and weekly rhythms. These are habits, not rules — missing one isn't
 
 - Work from flagged tasks
 - Check Popcorn between tasks (movement, chores)
-- When stuck → Quick Wins or Context Switch perspective
+- When overwhelmed → Easy Mode perspective
+- Short on time → Quick Wins perspective
 - Capture new things to Inbox (don't process now)
 
 ### End of Day Shutdown (5 min)
@@ -91,7 +92,7 @@ You know you should do reviews. You don't do them consistently. This is normal.
 
 **Morning planning skipped?**
 - Flag one task. Just one. Do that.
-- Or open Quick Wins and do anything.
+- Or open Easy Mode and do anything.
 
 **Shutdown skipped?**
 - Tomorrow's morning planning will catch it.

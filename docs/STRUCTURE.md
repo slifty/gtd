@@ -196,8 +196,8 @@ Example structure:
 |-------------|-------|----------|
 | 🟠 **Today** | Due Soon + Flagged + Planned today | Morning planning, daily focus |
 | 🟠 **Daily Review** | 📥 Daily Review tasks | Morning routine, check external systems |
-| 🩷 **Quick Wins** | All ⚡ 5min tasks | Overwhelmed, need momentum |
-| 🩷 **Context Switch** | 😎 Shallow tasks | Stuck on hard thing, need change |
+| 🩷 **Quick Wins** | ⚡ 5min tasks | Limited time, low-commitment progress |
+| 🩷 **Easy Mode** | 😎 Shallow tasks | Overwhelmed, need easiest path forward |
 | 🟢 **Popcorn** | Popcorn folder tasks | Between tasks, quick wins, maintenance |
 | 🟣 **Work** | Clients + Business folders | Professional obligations |
 | 🟣 **Volunteer** | Volunteer folder | Community commitments |

@@ -306,7 +306,7 @@ Perspectives are saved views that filter your tasks. You'll create nine.
 
 #### 4.2 Quick Wins
 
-**Purpose**: Easy tasks when you're overwhelmed
+**Purpose**: Low-commitment productivity when you have limited time or energy
 
 1. Create new perspective named `Quick Wins`
 2. Configure **Contents**:
@@ -392,11 +392,11 @@ Perspectives are saved views that filter your tasks. You'll create nine.
    - **Group actions by**: Project
    - **Sort actions by**: Due Date
 
-#### 4.8 Context Switch
+#### 4.8 Easy Mode
 
-**Purpose**: Low-energy alternatives when stuck
+**Purpose**: Overwhelm recovery — the easiest possible path forward
 
-1. Create new perspective named `Context Switch`
+1. Create new perspective named `Easy Mode`
 2. Configure **Contents**:
    - Add `Availability: Available`
    - Add `Is tagged with any of` → select **😎 Shallow**
@@ -446,8 +446,8 @@ Show these perspectives in this order:
 | 1 | **Inbox** | Built-in | Capture - process to zero |
 | 2 | 🟠 **Today** | Custom | Morning planning, daily focus |
 | 3 | 🟠 **Daily Review** | Custom | Morning routine, check external systems |
-| 4 | 🩷 **Quick Wins** | Custom | Overwhelm recovery |
-| 5 | 🩷 **Context Switch** | Custom | Low-energy alternatives |
+| 4 | 🩷 **Quick Wins** | Custom | Low-commitment progress |
+| 5 | 🩷 **Easy Mode** | Custom | Overwhelm recovery |
 | 6 | 🟢 **Popcorn** | Custom | Micro-tasks between work |
 | 7 | 🟣 **Work** | Custom | Professional obligations (Clients + Business) |
 | 8 | 🟣 **Volunteer** | Custom | Community commitments (Volunteer) |
@@ -730,7 +730,7 @@ Use this checklist to confirm everything is set up correctly.
 - [ ] Volunteer shows Volunteer folder
 - [ ] Side Quests shows Side Projects folder
 - [ ] Personal shows Personal folder
-- [ ] Context Switch shows 😎 Shallow tasks
+- [ ] Easy Mode shows 😎 Shallow tasks
 - [ ] Daily Review shows 📥 Daily Review tagged tasks
 
 ### Tasks
@@ -759,8 +759,8 @@ Once setup is complete, here's your daily workflow:
 4. Glance at **Popcorn**
 
 ### During the Day
-- **Overwhelmed?** → Open **Quick Wins**, do anything
-- **Stuck?** → Open **Context Switch**, do something different
+- **Short on time?** → Open **Quick Wins**, knock out something small
+- **Overwhelmed?** → Open **Easy Mode**, do the easiest thing
 - **Between tasks?** → Open **Popcorn**, do one thing
 
 ### End of Day (5 min)
